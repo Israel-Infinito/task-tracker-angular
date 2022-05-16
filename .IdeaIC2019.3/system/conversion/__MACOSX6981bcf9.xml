@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\__MACOSX\.idea\workspace.xml" timestamp="1618225054652" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\__MACOSX\.idea\__MACOSX.iml" timestamp="1618225054642" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\__MACOSX\.idea\modules.xml" timestamp="1618225054668" />
+  </project-files>
+</conversion>

@@ -1,0 +1,19 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\CPE152392\.idea\misc.xml" timestamp="1618245501193" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\CPE152392\.idea\modules.xml" timestamp="1618159576000" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\CPE152392\.idea\workspace.xml" timestamp="1618246557550" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\CPE152392\.idea\vcs.xml" timestamp="1618245630352" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\CPE152392\ps1.iml" timestamp="1618245959300" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\CPE152392\.idea\libraries\junit_4_12.xml" timestamp="1618245959331" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\CPE152392\.idea\libraries\hamcrest_core_1_3.xml" timestamp="1618245959331" />
+  </project-files>
+</conversion>

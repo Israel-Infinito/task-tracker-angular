@@ -1,0 +1,17 @@
+00:00:01.026107 VirtualBox GUI VM Selector Window 6.1.22 r144080 win.amd64 (Apr 28 2021 17:23:11) release log
+00:00:01.026110 Log opened 2021-06-22T07:22:54.424407100Z
+00:00:01.026111 Build Type: release
+00:00:01.026113 OS Product: Windows 10
+00:00:01.026115 OS Release: 10.0.19042
+00:00:01.026115 OS Service Pack: 
+00:00:01.043890 DMI Product Name: HP Laptop 15-dy1xxx
+00:00:01.051363 DMI Product Version:  
+00:00:01.051380 Firmware type: UEFI
+00:00:01.051995 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.052037 Host RAM: 7880MB (7.6GB) total, 4618MB (4.5GB) available
+00:00:01.052041 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.052042 Process ID: 14216
+00:00:01.052042 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.052337 Qt version: 5.6.2
+00:00:01.074480 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.540148 GUI: UIMediumEnumerator: Medium-enumeration finished!

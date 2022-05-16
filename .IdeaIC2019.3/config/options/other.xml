@@ -1,0 +1,27 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.661562" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="IJ_BASE_PACKAGE" value="rules" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop&#10;C:/Users/23481/Desktop/500L Courses/CPE507/newfolder&#10;C:/Users/23481/Desktop/CPE152392/bin&#10;C:/&#10;C:/Users/23481/Desktop/CPE152392&#10;C:/Users/23481/CPE152392&#10;C:/Users/23481/Desktop/500L Courses/CPE507/MIT6005-ps1-master&#10;C:/Users/23481/Desktop/500L Courses/CPE507/CPE152392&#10;C:/Users/23481/Desktop/500L Courses/CPE507/cpe152392(1)&#10;C:/Users/23481/Desktop/500L Courses/CPE507/cpe152392&#10;C:/Users/23481/Desktop/500L Courses/CPE507/ExamCPE507&#10;C:/Users/23481/Desktop/500L Courses/CPE507/sp16-ic03-testing updated with quadratic&#10;C:/Users/23481/Desktop/500L Courses/CPE507/Twitter-MIT-master&#10;C:/Users/23481/Desktop/500L Courses/CPE507/__MACOSX&#10;C:/Users/23481/Desktop/500L Courses/CPE507/sp16-ic03-testing&#10;C:/Users/23481/Desktop/New folder&#10;C:/Users/23481/Desktop/New folder/6005-ps1-pi-poetry-master&#10;C:/Users/23481/Desktop/turtle_graphics&#10;C:/Users/23481/Desktop/500L Courses/CPE507/CPE507TEST/turtle_graphics&#10;C:/Users/23481/Desktop/cpe507Test/turtle_graphics&#10;C:/Users/23481/Desktop/cpe507Test&#10;C:/Users/23481/Desktop/cpe507Test/.idea&#10;C:/Users/23481/Desktop/500L Courses/CPE507/CPE507TEST&#10;C:/Users/23481/Desktop/cpe507Test/turtle_graphics/src&#10;C:/Users/23481/Desktop/500L Courses/CPE507/test_cpe_507&#10;C:/Users/23481/Desktop/500L Courses/CPE507&#10;C:/Users/23481/Desktop/500L Courses/CPE507/turtle_graphics" />
+    <property name="file.gist.reindex.count" value="167" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.61-release-IJ2019.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.61-release-IJ2019.3-1:2019-11-26" />
+    <property name="lastTip" value="44" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1618062630968" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="JavaFX Application" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

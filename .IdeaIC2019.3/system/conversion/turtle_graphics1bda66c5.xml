@@ -1,0 +1,19 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\23481\Desktop\turtle_graphics\.idea\libraries\KotlinJavaRuntime.xml" timestamp="1615552130000" />
+    <file path="C:\Users\23481\Desktop\turtle_graphics\turtle_graphics.iml" timestamp="1615565284291" />
+    <file path="C:\Users\23481\Desktop\turtle_graphics\.idea\modules.xml" timestamp="1615552130000" />
+    <file path="C:\Users\23481\Desktop\turtle_graphics\.idea\workspace.xml" timestamp="1618062699930" />
+    <file path="C:\Users\23481\Desktop\turtle_graphics\.idea\misc.xml" timestamp="1615564453798" />
+    <file path="C:\Users\23481\Desktop\turtle_graphics\.idea\vcs.xml" timestamp="1615552130000" />
+    <file path="C:\Users\23481\Desktop\turtle_graphics\.idea\kotlinc.xml" timestamp="1615552130000" />
+  </project-files>
+</conversion>

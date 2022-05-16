@@ -1,0 +1,452 @@
+Project One.imlworkspace.xmlmodules.xmlProject Onexhtml11	resourcesstandardSchemas.ideaxhtml-mobilexhtml11.dtdxhtml-base-1.modxhtml-edit-1.modxhtml-form-1.modxhtml-link-1.modxhtml-list-1.modxhtml-meta-1.modxhtml-pres-1.modxhtml-ruby-1.modpatchesxhtml-text-1.mod
+xhtml5.xsdxhtml-image-1.modxml.xsdxhtml-mobile10.dtd	xhtml.dtd	xlink.dtdxhtml-param-1.mod
+plugin.dtdxhtml-qname-1.modxhtml-mobile12.dtd
+xhtml1.dtdxhtmlmp12-form-1.modxhtml-mobile10-flat.dtdcatalog.xsdxhtml-mobile12-form.mod0004_ping.patchxinclude.xsdxhtml-mobile10-model-1.mod0001_html5.patchxhtml-mobile12-model-1.modxslt-1_0.xsdxhtml-style-1.modschema.json0002_xhtml5.patchxslt-2_0.xsdxhtml-table-1.modXMLSchema-1_10003_hgroup.patchxhtml-events-1.modpatch_build.patchxhtml-object-1.modxhtml-script-1.mod0005_html5_namespace.patch!XMLSchema-hasFacetAndProperty.xsd0006_xhtml5_namespace.patchXMLSchema.dtd 0009_html_remove_microdata.patchdatatypes.dtd!0010_xhtml_remove_microdata.patchxhtml-struct-1.modxhtml-target-1.modxhtml-attribs-1.modxhtml-blkpres-1.modxhtml-charent-1.modxhtml-csismap-1.modrelaxng.rngxhtml-inlpres-1.modhtml5-schemaxhtml-ssismap-1.modxhtml1-strict.dtdxhtml11-model-1.modxhtml-blkphras-1.modxhtml1-strict.xsdxhtml-inlphras-1.modxhtml1-frameset.dtdxhtml-inlstyle-1.modxhtml1-frameset.xsdxhtml-blkstruct-1.modplugin-repository.dtdrdfxhtml-datatypes-1.modXMLSchema-instance.xsdxhtml-framework-1.modrdf.rncits2xhtml-hypertext-1.modxhtml1-transitional.dtdxhtml-inlstruct-1.modxhtml1-transitional.xsdxhtml-basic-form-1.modxhtml-basic-table-1.modXMLSchema-versioning.xsdDLLspy.icopyc.icopyd.icomml3LibPython37Docdbmpython376.chmtclgnu.pydumb.pyndbm.pytcl88.4platformdom_bz2.pyd	domreg.py
+minidom.py
+pulldom.pyminicompat.pyNodeFilter.py	patch-vnuxmlbuilder.py_msi.pydshell-1.1.4.tmmathml3.rncmathml3-inc.rncmathml3-common.rncmathml3-content.rncexpatbuilder.pyplatform-1.0.14.tm_ssl.pydmathml3-presentation.rnc8.5
+handler.pysaxutils.pyxmlreader.pymathml3-strict-content.rnc	_lzma.pyd_exceptions.pyexpatreader.pyElementPath.pyElementTree.pycElementTree.py	tk86t.dllElementInclude.pymsgcat-1.6.1.tm
+_queue.pydaria.rnctcltest-2.5.0.tmhtmlhttp
+cookies.pysubprocess.pyixmlsaxetreecli
+errors.pyi	models.py
+logging.pymodelstest.py3	error.pyi	parse.pyirobotparser.pyiaudiotest.auparsersenum.pyiglibc.pyimagesmenu.tcl2and3text.tclpkg_resourcesextern_vendorsix.py	entry.tcl	packagingmultipart.pyi
+_compat.py
+markers.py__about__.pyspecifiers.py_structures.pytest_enum.pyrequirements.py	scale.tcl
+button.tcl
+msgbox.tcl	posix.pyi
+random.pyiLICENSE	debug.pyitest_float.pyclrpick.tclconstants.pyiutil.pyicharset.pyirequestsurllib3utilcontribssl_match_hostnamespinbox.tclcookies.pyisessions.pyitest_ctypes.py	backportslicense.termspanedwindow.tcltest_abc.pytest_locks.pymsgstest_sundry.pycs.msgda.msgde.msgel.msgeo.msges.msgfr.msghu.msgit.msgpl.msgpt.msgru.msgsv.msg	en_gb.msgtest_context.pytest_resource.pytest_subprocess.pytest_source_encoding.pyemailmimeio.pyre.pytest_bytes.pytest_errno.pytest_unicode.pycursesurlliberror.py	client.py	server.py	events.pycopy.pyglob.py
+python.gifhelp.pyquery.pytest_format.py	search.pyparse.pydatatest_parser.pyloggingsqlite3hooks.pytkintertest_functions.pytest_text.pyconstants.pywsgirefqueue.pyunittest	distutilstest_cmd.pytest_config.pytest_filelist.pytest_sysconfig.pycmd.pylog.pycommandbuild.pysdist.py	upload.pybuild_py.pyregister.pybdist_rpm.pybuild_ext.pybuild_clib.pyinstall_lib.pybdist_wininst.pyinstall_scripts.pyinstall_egg_info.pydist.pydebug.py	errors.pydep_util.pyfilelist.pyextension.pyarchive_util.py	encodingsGMT0ascii.pyZuluGMT+0GMT-0	importlibresources.py	pickle.py	struct.py	typing.py
+concurrentfutures_base.py
+decimal.py
+pathlib.py
+tarfile.pytree.pycollectionsdatetime.pytokenize.pyfunctools.pyipaddress.pysysconfig.pysubprocess.pymultiprocessingspawn.py	queues.pymanagers.pyCentralEasternMountainNicosiaIstanbulSamoaAtlanticWest	Greenwich	Singapore	Universaldemoswidget
+folder.gifindex.pywheel.pypy31compat.pypackagesrequest.pyiresponse.pyi	utils.pyiexceptions.pyi_compat.pyiutils.py
+README.txttestmain.pytest_util.pycheck.py	config.pyabc.pyutil.pyPacifictclIndexMakefilescriptscrlf.pyNEWS.txt
+python.exeLICENSE.txtpythonw.exeexpat.py8.6data.rncmeta.rncrdfa.rncruby.rnc	block.rnc	embed.rnc	media.rnc
+common.rnc
+select.pydhttp-2.9.0.tm
+legacy.rncnmake
+phrase.rnc
+tables.rnc
+tcl86t.dllrevision.rnchtml5core.rnchtml5full.rncmicrodata.rncsectional.rncweb-forms.rnc_ctypes.pydstructural.rnc_socket.pydrules.vcweb-forms2.rncxhtml5core.rncentities.pyapplications.rnccore-scripting.rncpyexpat.pydform-datatypes.rnc	tcl.nmakehtml5full-rdfa.rnc
+nmakehlp.cweb-components.rnchtml5exclusions.rnccookiejar.pyxhtml5full-html.rncjsonxhtml5full-xhtml.rnctool.py
+decoder.pysqlite3.dll
+encoder.py
+scanner.pyhtml5full-rdfalite.rnc
+targets.vctk8.6ttkweb-forms-scripting.rncweb-forms2-scripting.rncxhtml5full-xhtml-rdfa.rnccapathhtml5full-no-microdata.rncxhtml5full-html-rdfalite.rncxhtml5full-xhtml-rdfalite.rncttk.tclxhtml5core-plus-web-forms2.rnc xhtml5full-html-no-microdata.rnc!xhtml5full-xhtml-no-microdata.rncsvg11
+4e1295a3.0_asyncio.pyd	svg11.rnc_decimal.pydinkscape.rncsvg-clip.rncsvg-font.rncsvg-mask.rncsvg-text.rnc_hashlib.pydsvg-view.rnc
+5ed36f99.0svg-image.rncsvg-qname.rncsvg-shape.rncsvg-style.rnc
+6e88d7b8.0svg11-inc.rncsvg-cursor.rncsvg-filter.rnc_sqlite3.pyd
+99d0fa06.0	fonts.tcl
+b1930218.0_tkinter.pyd
+ceff1710.0leakerstest_selftype.pywinsound.pydsvg-marker.rncsupport	utils.tclsvg-script.rnc_testcapi.pydsvg11-tiny.rncsvg-pattern.rncsvg-profile.rncsvg11-basic.rnctestresult.pysvg-gradient.rncscript_helper.pysvg-animation.rnccrasherssvg-datatypes.rncsvg-hyperlink.rnclibssl-1_1.dllsvg-structure.rncinkscape-draft.rnccursors.tclsvg-basic-clip.rncsvg-basic-font.rncpython_lib.catsvg-basic-text.rncgc_inspection.pysvg11-tiny-inc.rncsvg-conditional.rncbogus_code_obj.py_overlapped.pydrecursive_call.pyunderlying_dict.pysvg-core-attrib.rncinfinite_loop_re.pysvg11-basic-inc.rncmutation_inside_cyclegc.pyxpTheme.tcltrace_at_recursion_limit.py	audiodatasvg-basic-filter.rnc_testbuffer.pydaltTheme.tclsvg-paint-attrib.rncsvg-xlink-attrib.rncsvg-extensibility.rncsvg-opacity-attrib.rncpluck-pcm8.ausvg-basic-structure.rncsvg-graphics-attrib.rncunicodedata.pydsvg-viewport-attrib.rncsvg-container-attrib.rncsvg-docevents-attrib.rncpluck-ulaw.ausvg-animevents-attrib.rnccombobox.tcl_ctypes_test.pydsvg-graphevents-attrib.rncsvg-extresources-attrib.rncpluck-pcm16.ausvg-basic-graphics-attrib.rnc_elementtree.pyddefaults.tclpluck-pcm24.auhtml5-all.rnchtml5-its.rnchtml5chars.entxhtml5-all.rnc_testconsole.pydhtml5-rdfalite.rncxhtml5-rdfalite.rncnotebook.tclhtml5-svg-mathml.rncxhtml5-svg-mathml.rnchtml5-no-microdata.rnchtml5-rdfalite-w3c.rncpluck-pcm32.auxhtml5-no-microdata.rncxhtml5-rdfalite-w3c.rncprogress.tclsvg-xhtml5-rdf-mathml.rncpython_tools.catxhtml1-ruby-rdf-svg-mathml.rnchtml5charref.rbpluck-pcm8.wavcloud.propertiespluck-alaw.aifcupdate_html5_schema.shsite-packagessizegrip.tclpippluck-pcm16.wavidnalibcrypto-1_1.dllcodec.pyidnadata.pytreeview.tclintranges.pyuts46data.pypackage_data.pypep517_testmultiphase.pydwinTheme.tclpluck-pcm24.wavcolorlog.py_multiprocessing.pydenvbuild.pyaquaTheme.tclwrappers.pypluck-pcm32.wav_in_process.pypytoml_testimportmultiple.pyd
+-197894510pluck-pcm8.aiff	writer.pycertifipython-skeletonsclamTheme.tclpluck-ulaw.aifcpath.pypypathnosetools
+cacert.pemscrollbar.tclpluck-pcm16.aiffnumpychardetmultiarray.pychardetect.pyenums.pyescsm.py	jpcntx.py	mbcssm.pymenubutton.tclpluck-pcm24.aiffdjango
+jisfreq.pydbbig5freq.pyescprober.pyeuckrfreq.pyeuctwfreq.pybig5prober.pymail.pygb2312freq.pysjisprober.pyformsutf8prober.pyvistaTheme.tclcp949prober.pyeucjpprober.pyforms.pypluck-pcm32.aiffeuckrprober.pyformsets.pyeuctwprober.py	eintrdatapytesteintr_tester.pygb2312prober.pyhebrewprober.pylatin1prober.py	empty.vbscharsetprober.pylangthaimodel.pysys.pylanggreekmodel.pyclassicTheme.tcl_csv.pylanghebrewmodel.pymbcharsetprober.py	nokia.pemmbcsgroupprober.py	reperf.pysbcharsetprober.py	test_jsonsbcsgroupprober.pychardistribution.pylangturkishmodel.pylangcyrillicmodel.pyuniversaldetector.pycharsetgroupprober.pycodingstatemachine.pylettucelangbulgarianmodel.py
+terrain.pylanghungarianmodel.pydistlibtest_dump.pymath.py	behave.pytest_fail.pytest_tool.pyt32.exetest_pass1.pytest_pass2.pytest_pass3.pytest_decode.pytest_indent.pytest_default.pytest_speedups.py	README.mdtest_recursion.pyt64.exetest_scanstring.pytest_separators.py
+alembic.pytest_encode_basestring_ascii.py
+sqlite3.pyw32.exeAUTHORS.txtbuiltins.py
+badkey.pemw64.exe
+dtracedataStringIO.pycStringIO.py	_backportitertools.pygc.dgc.py__builtin__.pycollections.pygc.stp3.5sysconfig.cfgline.d
+zipapp.pyiline.py3.4instance.py
+scripts.py	locks.pyi	tasks.pyi
+events.pyidatabase.py
+queues.pyilocators.pyfutures.pyicall_stack.dstreams.pyicall_stack.pyprotocols.pyicoroutines.pyimanifest.pygc.d.expectedmetadata.pytransports.pyimsgpackcall_stack.stp_version.py	_stat.pyipathlib.pyiselectors.pyiassert_usable.dfallback.pyurl.pystatistics.pyissl_.pygc.stp.expectedtracemalloc.pyiwait.py_tracemalloc.pyi3.3ipaddress.pyiretry.py
+timeout.pyline.d.expectedpath.pyirmtsocks.pyentities.pyiassert_usable.stphellontlmpool.py
+client.pyiixset
+server.pyicall_stack.d.expectedappengine.pycookiejar.pyicall_stack.stp.expectedtimerpyopenssl.py_securetransport
+final_a.pybase.pyi
+final_b.pytext.pyi	audio.pyibindings.py	image.pyilow_level.py
+imghdrdatabrowse
+python.bmpsecuretransport.py_appengine_environ.pyapplication.pyinonmultipart.pyirfc3986
+python.exr
+python.jpgiri.py
+header.pyi
+python.pbmuri.py
+python.pgm
+python.png	earth.gif
+python.ppm
+flagup.xbm	_mixin.py
+policy.pyi
+gray25.xbm
+ouster.png
+teapot.ppm
+builder.py
+python.rasvalidators.pyabnf_regexp.pyletters.xbmencoders.pyinormalizers.pygenerator.pyi
+python.sgiiterators.pyi
+python.xbmfeedparser.pyiparseresult.pypattern.xbmpython.tiffcontentmanager.pyitcllogo.gifheaderregistry.pyiearthris.gifpython.webpmakefile.pyflagdown.xbmgc.pyinoletter.xbmio.pyire.pyi_implementation.py	fields.pyearthmenu.pngfilepost.py
+mime.typespoolmanager.py_collections.pyast.pyiconnectionpool.pycsv.pyicoloramagrp.pyiimp.pyi
+pstats.pckpdb.pyipwd.pyiansi.py
+dbapi2.pyiwin32.py
+randv3.pckssl.pyi
+sndhdrdatasys.pyi
+winterm.pysquarettk.pyiinitialise.pyansitowin32.pyhtml5lib	sndhdr.au_trievalidate.pyi_ast.pyitcolorpy.py
+sndhdr.voc	datrie.pycopy.pyiglob.pyifilters
+sndhdr.wavgzip.pyijson.pyilint.pystat.pyitime.pyisndhdr.8svxmock.pyisanitizer.pyuuid.pyiwhitespace.pyoptionaltags.pyzlib.pyiinject_meta_charset.py	_json.pyialphabeticalattributes.py	array.pyi	_utils.pytreewalkers	utf_8.pyisndhdr.aifcrolodex_ihatexml.py	fcntl.pyi	heapq.pyisndhdr.aifftreeadapterssax.pysndhdr.hcombind.tclsndhdr.sndt
+test_emailform.tcl
+msg_01.txt
+msg_02.txttreebuilders
+msg_03.txt
+msg_04.txt
+msg_05.txtmachinery.pyi	pipes.pyiicon.tcl	queue.pyi
+msg_06.txt	runpy.pyi
+msg_07.txt
+msg_08.txt
+msg_09.txt	shlex.pyi
+msg_10.txt	token.pyi
+msg_11.txt
+msg_12.txt
+msg_13.txt_tokenizer.py
+msg_14.txt
+msg_15.txtserializer.py
+msg_16.txthtml5parser.py
+msg_17.txt_inputstream.py
+msg_18.txt
+atexit.pyi
+msg_19.txtplot.tcl
+base64.pyi
+msg_20.txtlockfile
+msg_21.txt
+msg_22.txt
+msg_23.txtpidlockfile.py
+msg_24.txtlinklockfile.py
+msg_25.txtmkdirlockfile.py
+msg_26.txtsqlitelockfile.py
+msg_27.txtsymlinklockfile.pyspin.tcl
+msg_28.txt	_base.pyi
+msg_29.txtprogress
+msg_30.txt
+thread.pyi
+msg_31.txt
+msg_32.txtbar.py
+counter.py
+spinner.pyauth.py
+getopt.pyi
+msg_33.txt
+msvcrt.pyi
+pickle.pyi
+pprint.pyi
+select.pyi
+shelve.pyicerts.py
+shutil.pyi
+msg_34.txttree.tcl
+signal.pyi
+socket.pyi
+string.pyi
+msg_35.txt	arrow.tcl
+msg_36.txt
+msg_37.txt
+msg_38.txt
+msg_39.txt
+msg_40.txt
+msg_41.txt
+msg_42.txt
+msg_43.txt	check.tcl
+msg_44.txt
+msg_45.txt
+msg_46.txtmsg_12a.txt
+struct.pyi
+symbol.pyi	combo.tcladapters.py
+typing.pyipackages.py_codecs.pyisessions.py_curses.pyistructures.py__version__.py_internal_utils.py	ctext.tcl	distro.py_random.pyi_thread.pyidecimal.pyidifflib.pyi	floor.tcldoctest.pyifnmatch.pyigetpass.pyigettext.pyihashlib.pyiinspect.pyismtplib.pyiweakref.pyibinascii.pyibuiltins.pyi	items.tclcalendar.pyidatetime.pyiplatform.pyiresource.pyitempfile.pyiPyBanner048.giftest_email.pytest_utils.pytest_policy.pytextwrap.pyitokenize.pyi_operator.pyitest_message.py_warnings.pyifileinput.pyifunctools.pyiitertools.pyilinecache.pyiposixpath.pyi__future__.pyicompileall.pyi_markupbase.pyi_subprocess.pyi	label.tclpool.pyitorture_test.pytest_generator.pytest_inversion.pytest_pickleable.pytest_asian_codecs.py	radio.tclmanagers.pyi_compression.pyiconfigparser.pyisocketserver.pyi_dummy_thread.pyi_posixsubprocess.pyi_importlib_modulespec.pyihandler.pyi	ruler.tclsaxutils.pyixmlreader.pyitest__encoded_words.pyElementPath.pyitest_contentmanager.pyElementTree.pyitest_headerregistry.pytest_defect_handling.pycElementTree.pyi	style.tclElementInclude.pyiuu.pyitest__header_value_parser.pybz2.pyicgi.pyidis.pyi
+test_gc.py
+test_io.py
+test_os.py
+test_re.py	twind.tclretrying.pycachecontrolcaches
+test_tk.pyhandlers.pyi
+test_toolsfile_cache.pytty.pyiredis_cache.py_cmd.pycode.pyitest_lll.pyhmac.pyimath.pyi
+bitmap.tcltest_i18n.pytest_pdeps.py
+adapter.pytest_fixcid.pymmap.pyi
+wrapper.pytest_md5sum.pyserialize.pytest_pindent.pysite.pyicontroller.pyheuristics.pyspwd.pyifilewrapper.pywave.pyi
+colors.tcltest_unparse.py	cmath.pyitest_reindent.pytest_gprof2html.py
+test_uu.py
+zipdir.zipwebencodingstests.py	labels.py
+entry1.tclcmd.pyi	bdist.pyimklabels.py	build.pyiallsans.pemx_user_defined.pyautotest.py	check.pyi	clean.pyi
+entry2.tcl	_internal	sdist.pyibadcert.peminstall.pyibuild_py.pyiregister.pyicmdoptions.pybdist_msi.pyimain_parser.pybdist_rpm.pyi
+entry3.tclcfgparser.1build_ext.pyibdist_dumb.pyibase_command.pybuild_clib.pyiinstall_lib.pyiautocompletion.pycfgparser.2req
+req_set.pyinstall_data.pyi
+hscale.tclbdist_wininst.pyibuild_scripts.pyibdist_packager.pyicfgparser.3req_file.pyinstall_headers.pyireq_install.pyinstall_scripts.pyilog.pyi
+image1.tclcore.pyidist.pyi	spawn.pyireq_tracker.py
+image2.tclversion.pyidep_util.pyiconstructors.pyreq_uninstall.pydir_util.pyifilelist.pyi
+mclist.tclccompiler.pyiextension.pyifile_util.pyiclinic.testvcsgit.pytext_file.pyi
+menubu.tcl	bazaar.pyarchive_util.pyibcppcompiler.pyimercurial.pyfancy_getopt.pyisubversion.pyidnsans.pemmsvccompiler.pyiversioncontrol.pyieee754.txtunixccompiler.pyiutilscygwinccompiler.pyiui.py	errno.pyi	sunau.pyi	trace.pyikeycert.pem
+_heapq.pyilibregrtest
+binhex.pyi	hashes.py
+bisect.pyisetup.py
+paned1.tcl
+cmdline.py
+refleak.py
+runtest.pysave_env.pywin_utils.pyruntest_mp.py
+paned2.tclmailcap.txtencoding.pyprofilee.pyoutdated.pytemp_dir.py
+codecs.pyipackaging.pyfilesystem.py
+ftplib.pyivirtualenv.pydeprecation.py
+puzzle.tcl
+locale.pyi
+opcode.pyi
+pstats.pyipycakey.pemmarker_files.py
+search.tclsetuptools_build.pyre_tests.py
+pyclbr.pyiregrtest.py
+quopri.pyilink.py
+sndhdr.pyisortperf.py
+syslog.pyi
+timeit.pyi
+states.tcl
+xdrlib.pyi_bisect.pyifilecmp.pyicandidate.pykeyword.pyisearch_scope.pymarshal.pyitarget_python.pynumbers.pyiformat_control.pypkgutil.pyiselection_prefs.pyssl_key.pemcommands
+ttkbut.tclhash.pylist.pyshow.pyssltests.py
+vscale.tclprofile.pyitest_ast.pytarfile.pyitest_bdb.pytest_bz2.pytermios.pyitest_cgi.pyaniwave.tcluninstall.pyzipfile.pyiargparse.pyiasynchat.pyiasyncore.pyicompletion.pytest_csv.pycolorsys.pyitest_dbm.pycProfile.pyioperator.pyitest_dis.pytest_eof.pytest_gdb.pytest_grp.pytest_imp.pytest_importpackage
+operations
+prepare.pybuild_env.pylocations.pypyproject.pydistributions	source.pyinstalled.pycscroll.tcllegacy_resolve.py
+setuptoolsplistlib.pyidialog1.tclsubmodule.pypackage2submodule1.pysubmodule2.pycircular_importssubpkgreadline.pyidialog2.tclsymtable.pyitabnanny.pyiwarnings.pyisubpackage2.pyfilebox.tclbasic.pyfractions.pyimimetypes.pyisayings.tcltelnetlib.pyithreading.pyitraceback.pyi	basic2.pytoolbar.tclzipimport.pyi
+binding.pybinding2.pyindirect.pycontextlib.pyirebinding.pyrebinding2.pysubpackage.pytest_int.pypy_compile.pyitest_nis.pyttkmenu.tcltest_pdb.pytest_pkg.pytest_pow.pytest_pty.pystringprep.pyiwebbrowser.pyicli.exerlcompleter.pyialias.pyunicodedata.pyittknote.tcltest_pwd.py	rotate.pytest_sax.py	setopt.pytest_set.pytest_ssl.pytest_sys.pytest_tcl.pysix
+develop.pymovestest_tix.pytest_ucn.pyttkpane.tclegg_info.pycPickle.pyiurllib_error.pyiurllib_parse.pyiurllib_request.pyiurllib_response.pyiurllib_robotparser.pyisaveopts.pytesttar.tarlxmlxmltestdata	etree.pyiobjectify.pyidateutiltztest.xml
+simple.xmlbdist_egg.pyanilabel.tcltz.pyitest.xml.outgoldberg.tclsimple-ns.xmlexpat224_utf8_bug.xmlxmltests.pypendulum.tcl_common.pyitextpeer.tclcjkencodingshz.txtdist_info.pygbk.txtbig5.txtrelativedelta.pyi	cp949.txtdocutilspy36compat.pyupload_docs.py	johab.txt
+euc_jp.txtttkscale.tcl
+euc_kr.txt
+gb2312.txtgb18030.txthz-utf8.txtgbk-utf8.txtbig5-utf8.txtbig5hkscs.txtshift_jis.txtrst	roles.pyi
+states.pyicp949-utf8.txtiso2022_jp.txtiso2022_kr.txtjohab-utf8.txteuc_jp-utf8.txtlauncher manifest.xmlexamples.pyieuc_kr-utf8.txtgb2312-utf8.txtfontchoose.tcleuc_jisx0213.txtgb18030-utf8.txtwerkzeugdebugbig5hkscs-utf8.txtrepr.pyishift_jis-utf8.txtconsole.pyishift_jisx0213.txttbtools.pyiiso2022_jp-utf8.txtiso2022_kr-utf8.txteuc_jisx0213-utf8.txtshift_jisx0213-utf8.txtlabelframe.tclatom.pyilint.pyi	cache.pyi
+fixers.pyigui.exe
+iterio.pyiffdh3072.pemlimiter.pyiunicodeout.tclmsvc.pyfork_wait.pyimp_dummy.pyprofiler.pyi	launch.py	monkey.pyjsrouting.pyiknightstour.tcltesttools.pyikeycert2.pemsecurecookie.pyihttp.pyitest.pyi
+cli-32.exettkprogress.tclurls.pyikeycert3.pemwsgi.pyi	local.pyi
+script.pyikeycert4.pemnullcert.pem
+cli-64.exe
+depends.pylogo.eps
+logo64.gifrouting.pyi
+tai-ku.gifpycacert.pemserving.pyilogo100.gifpydoc_mod.pylogoMed.gif
+gui-32.exetestapp.pyirelimport.pyseq_tests.pysecurity.pyi
+gui-64.exe
+sandbox.py_internal.pyi_reloader.pyifilesystem.pyipwrdLogo.epslogoLarge.gifpwrdLogo75.gifpwrdLogo100.gifpwrdLogo150.gifpwrdLogo175.gifpwrdLogo200.gifformparser.pyiscript.tmpluseragents.pyibuild_meta.pylib2to3_ex.pydatastructures.pyinamespaces.pypy27compat.pytk.tclposixemulation.pyi	typed_astast3.pyi	ast27.pyiconversions.pyipy33compat.pysite-patch.pyssl_support.pyitsdangerous.pyissl_cert.pempackage_index.pyunicode_utils.pypkg_resources.pyitest_aifc.pytest_asynciobotoscript (dev).tmplecho.pyecho2.pyecho3.pyfunctional.pytest_tasks.pytest_events.pytest_pep492.pytest_queues.pys3windows_support.pyacl.pyitest_server.py_deprecation_warning.pykey.pyicors.pyiuser.pyi
+bucket.pyitest_futures.py
+prefix.pyitest_runners.pykeyfile.pyitest_streams.pytagging.pyitest_sslproto.pywebsite.pyitest_transports.pytest_base_events.pytest_unix_events.pytest_windows_utils.pylifecycle.pyitest_buffered_proto.pytest_windows_events.pymultidelete.pyideletemarker.pyitest_proactor_events.pytest_selector_events.py	focus.tcltest_bool.pytest_call.pybucketlogging.pyibucketlistresultset.pyiec2test_capi.pyelbtest_code.pytest_copy.pytest_dict.pytest_file.py	icons.tcl
+plugin.pyitest_glob.pytest_gzip.pyexception.pyitest_hash.pytest_hmac.pyregioninfo.pyitest_html.pyauth_handler.pyipytztest_idle.pypip-19.2.3.dist-infotest_iter.pytest_list.pylazy.pyitest_long.pytest_lzma.pyCryptotest_math.pyHashtest_mmap.pyMD2.pyitest_poll.pyMD4.pyiMD5.pyiSHA.pyiHMAC.pyitest_repl.py
+RIPEMD.pyitest_site.py
+SHA224.pyi
+SHA256.pyi
+SHA384.pyi
+SHA512.pyihashalgo.pyiUtiltest_sort.pyasn1.pyi
+number.pyitest_spwd.py
+strxor.pyi
+comdlg.tcltest_stat.pytest_time.pytest_uuid.pytest_venv.pyCounter.pyitest_wave.pyRFC1751.pyitest_with.pytest_zlib.pyrandpool.pyitestcodec.pyann_module.pyCipher
+dialog.tclaudiotests.pyAES.pyiDES.pyiXOR.pyiARC2.pyiARC4.pyibad_coding.pyCAST.pyibisect_cmd.pyDES3.pyidis_module.pygdb_sample.pyBlowfish.pyiblockalgo.pyilist_tests.pyPKCS1_OAEP.pyilock_tests.pymp_preload.pyRandompythoninfo.pysetuptools-41.2.0.dist-info
+safetk.tclOSRNGfallback.pyirng_base.pyiFortunaSHAd256.pyirandv2_32.pckFortunaGenerator.pyiFortunaAccumulator.pyi
+tkfbox.tclProtocolKDF.pyiChaffing.pyirandv2_64.pckAllOrNothing.pyi
+xmfbox.tcl	PublicKeyDSA.pyiRSA.pyi
+pubkey.pyiElGamal.pyi	Signaturesecp384r1.pemPKCS1_PSS.pyitest_array.pytest_binop.pytest_bufio.pytest_cgitb.pypct_warnings.pyitest_class.pyjinja2test_cmath.pybgerror.tcltest_crypt.pyext.pyitest_deque.pymeta.pyitest_descr.pytest_eintr.py	lexer.pyi	tests.pyitest_embed.pytest_epoll.pytest_fcntl.pybccache.pyitest_flufl.pyfilters.pyitest_fork1.pyloaders.pyitest_frame.pyruntime.pyitest_heapq.pyzip-safesandbox.pyitest_index.pyvisitor.pyitest_ioctl.pytest_netrc.pytest_pipes.pytest_popen.pycompiler.pyitest_posix.pydefaults.pyitest_print.pyconsole.tcltest_pydoc.pyoptimizer.pyitest_queue.pytest_raise.py_stringdefs.pyidependency_links.txttest_range.pyenvironment.pyitest_runpy.pypymysqltest_sched.pyerr.pyitest_scope.pytest_shlex.py	constantstest_slice.pyER.pyitest_smtpd.pyFLAG.pyitest_sunau.py
+CLIENT.pyitest_super.pyCOMMAND.pyitest_trace.pylistbox.tcltest_tuple.pytest_types.pyFIELD_TYPE.pyitest_unary.pySERVER_STATUS.pyitest_wait3.py	times.pyitest_wait4.pytest_warningscursors.pyistacklevel.pyconverters.pyiimport_warning.pyconnections.pyimkpsenc.tcltracedmodulesapi.pyi
+testmod.pyoptMenu.tclann_module2.pyann_module3.pyurl.pyibad_coding2.pyssl_.pyibad_getattr.pycoding20731.py	retry.pyitimeout.pyipalette.tclkeycertecc.pemmock_socket.pypydocfodder.py_implementation.pyiscrlbar.tcl
+fields.pyifilepost.pyirevocation.crlssl_servers.pysubprocessdataqcat.pypoolmanager.pyiqgrep.py_collections.pyifd_status.pyconnectionpool.pyi	hooks.pyiinput_reader.pysigchild_ignore.pytearoff.tcltest_atexit.pytest_base64.py
+models.pyitest_bigmem.pytest_binhex.pytest_bisect.pyadapters.pyitest_buffer.pytest_clinic.pytest_codecs.pystructures.pyitest_codeop.pystatus_codes.pyitest_curses.pytest_dtrace.pytest_fileio.pyssl_match_hostname.pyi	ujson.pyi
+markupsafeiconlist.tcltest_frozen.py_native.pyitest_ftplib.pytest_future.py_speedups.pyitest_getopt.py_constants.pyitest_global.pycertifi.pyitest_imghdr.pyatomicwritestest_importlibdata01characteristicobsolete.tclbackports_abc.pyisingledispatch.pyimypy_extensions.pyi
+utf-8.filechoosedir.tclutf-16.filesubdirectorydata02megawidget.tclonetworesource2.txtdata03	namespacefrozensourcefontchooser.tcltest_file_loader.pybuiltinimport_test_caching.pytest_fromlist.pytest_packages.pytest_meta_path.pytest___loader__.pytest___package__.pytest_relative_imports.py	extensionunsupported.tcldde1.4	zipdata01	zipdata02test_lazy.pytest_open.pytcldde14.dlltest_read.pyreg1.3test_spec.pynamespace_pkgsproject1project2project3three.pyboth_portionstclreg13.dllnested_portion1.ziptcl8.6not_a_namespace_pkgmissing_directory.ziptop_level_portion1.zipmodule_and_namespace_packagea_testempty	a_test.pytest_windows.pyaf.msgtest_namespace_pkgs.pytest_kqueue.pytest_locale.pytest_module.pytest_msilib.pytest_ntpath.pytest_pickle.pytest_poplib.pytest_pprint.pytest_pstats.pytest_pyclbr.pytest_quopri.pytest_random.pytest_select.pytest_shelve.pytest_shutil.pytest_signal.pytest_sndhdr.pyar.msgtest_socket.pytest_sqlite.pytest_string.pytest_strtod.pytest_struct.pytest_symbol.pytest_syntax.pytest_syslog.pytest_thread.pytest_timeit.pytest_turtle.pytest_typing.pytest_unpack.pytest_urllib.pytest_winreg.pytest_xdrlib.pytest_xmlrpc.pytest_zipapp.pybad_getattr2.pybad_getattr3.pycurses_tests.pybe.msgdecimaltestdatabg.msg
+ln.decTestbn.msg
+or.decTestca.msgabs.decTestadd.decTestand.decTestexp.decTestfma.decTestmax.decTestmin.decTestet.msgeu.msgxor.decTestfa.msgbase.decTestfi.msgcopy.decTestfo.msgddOr.decTestga.msgdqOr.decTestgl.msglogb.decTestgv.msgplus.decTesthe.msgclamp.decTestclass.decTesthi.msghr.msgddAbs.decTestddAdd.decTestid.msgddAnd.decTestddFMA.decTestis.msgddMax.decTestja.msgddMin.decTestkl.msgko.msgddXor.decTestkw.msgdqAbs.decTestlt.msgdqAdd.decTestdqAnd.decTestlv.msgmk.msgdqFMA.decTestmr.msgdqMax.decTestms.msgdqMin.decTestmt.msgnb.msgdqXor.decTestextra.decTestlog10.decTestnn.msgminus.decTestpower.decTestro.msgshift.decTestddBase.decTestsh.msgddCopy.decTestsk.msgsl.msgddLogB.decTestsq.msgddPlus.decTestsr.msgdivide.decTestsw.msgdqBase.decTestta.msgdqCopy.decTestte.msgdqLogB.decTestdqPlus.decTestth.msgdsBase.decTesttr.msginvert.decTestuk.msgvi.msgmaxmag.decTestzh.msgminmag.decTestkok.msgreduce.decTest	af_za.msg	ar_in.msgrotate.decTest	ar_jo.msgscaleb.decTest	ar_lb.msgcompare.decTest	ar_sy.msgcopyabs.decTest	bn_in.msgddClass.decTest	de_at.msgddMinus.decTest	de_be.msgddShift.decTest	en_au.msgdecQuad.decTest	en_be.msg	en_bw.msgdqClass.decTest	en_ca.msgdqMinus.decTest	en_hk.msgdqShift.decTest	en_ie.msginexact.decTest	en_in.msg	en_nz.msgrandoms.decTest	en_ph.msg	en_sg.msgrescale.decTest	en_za.msgtestall.decTest	en_zw.msgcopysign.decTest	es_ar.msg	es_bo.msgddDivide.decTest	es_cl.msgddEncode.decTest	es_co.msgddInvert.decTest	es_cr.msg	es_do.msgddMaxMag.decTest	es_ec.msgddMinMag.decTest	es_gt.msg	es_hn.msg	es_mx.msgddReduce.decTest	es_ni.msgddRotate.decTest	es_pa.msg	es_pe.msgddScaleB.decTest	es_pr.msg	es_py.msgdqDivide.decTest	es_sv.msgdqEncode.decTest	es_uy.msgdqInvert.decTest	es_ve.msg	eu_es.msgdqMaxMag.decTest	fa_in.msgdqMinMag.decTest	fa_ir.msgdqReduce.decTest	fo_fo.msg	fr_be.msgdqRotate.decTest	fr_ca.msg	fr_ch.msgdqScaleB.decTest	ga_ie.msgdsEncode.decTest	gl_es.msg	gv_gb.msgmultiply.decTest	hi_in.msgnextplus.decTest	id_id.msg	it_ch.msgquantize.decTest	kl_gl.msg	ko_kr.msgrounding.decTest	kw_gb.msgsubtract.decTest	mr_in.msg	ms_my.msgddCompare.decTest	nl_be.msg	pt_br.msgddCopyAbs.decTest	ru_ua.msgdecDouble.decTestdecSingle.decTest	ta_in.msg	te_in.msgdivideint.decTest	zh_cn.msgdqCompare.decTest	zh_hk.msgdqCopyAbs.decTest	zh_sg.msg	zh_tw.msgnextminus.decTest
+kok_in.msgopt0.4powersqrt.decTestoptparse.tclremainder.decTestcopynegate.decTesttm.tclddCopySign.decTesttzdataGBddMultiply.decTestNZddNextPlus.decTestUSddQuantize.decTestAlaskaddSubtract.decTestHawaiidqCopySign.decTestArizonadqMultiply.decTestdqNextPlus.decTestdqQuantize.decTestdqSubtract.decTestAleutiannexttoward.decTestMichigansquareroot.decTesttointegral.decTestddCanonical.decTestPacific-NewddDivideInt.decTestEast-IndianaddNextMinus.decTestIndiana-StarkeddRemainder.decTestCETdqCanonical.decTestdqDivideInt.decTestEETESTdqNextMinus.decTestEtcdqRemainder.decTestsamequantum.decTesttointegralx.decTestcomparetotal.decTestddCompareSig.decTestGMT+1ddCopyNegate.decTestGMT+2GMT+3ddNextToward.decTestGMT+4ddToIntegral.decTestGMT+5dqCompareSig.decTestGMT+6GMT+7dqCopyNegate.decTestGMT+8dqNextToward.decTestGMT+9dqToIntegral.decTestGMT-1comparetotmag.decTestGMT-2GMT-3ddSameQuantum.decTestGMT-4dqSameQuantum.decTestrandomBound32.decTestGMT-5GMT-6remainderNear.decTestGMT-7ddCompareTotal.decTestGMT-8GMT-9dqCompareTotal.decTestGMT+10ddRemainderNear.decTestGMT+11dqRemainderNear.decTestGMT+12GMT-10ddCompareTotalMag.decTestGMT-11dqCompareTotalMag.decTestdouble_const.pyGMT-12encoded_modulesmodule_koi8_r.pymodule_iso_8859_1.pyfuture_test1.pyfuture_test2.pyGMT-13good_getattr.pymp_fork_bomb.pypickletester.pypyclbr_input.pyGMT-14sgml_input.htmlstring_tests.pytest___all__.pytest__locale.pytest__opcode.pytest_audioop.pytest_builtin.pytest_compare.pytest_compile.pytest_complex.pytest_copyreg.pytest_dbm_gnu.pytest_decimal.pytest_devpoll.pytest_difflib.pytest_doctest.pytest_dynamic.pytest_extcall.pytest_filecmp.pytest_fnmatch.pytest_fstring.pytest_future3.pytest_future4.pytest_future5.pytest_genexps.pytest_getpass.pytest_gettext.pytest_grammar.pytest_hashlib.pytest_httplib.pytest_imaplib.pytest_inspect.pytest_iterlen.pytest_keyword.pytest_lib2to3.pytest_logging.pytest_longexp.pyHSTtest_macpath.pytest_mailbox.pytest_mailcap.pytest_marshal.pytest_minidom.pytest_nntplib.pytest_opcodes.pytest_openpty.pytest_osx_env.pytest_pathlib.pytest_pkgutil.pytest_profile.pytest_pulldom.pytest_pyexpat.pytest_reprlib.pytest_richcmp.pytest_secrets.pytest_smtplib.pytest_smtpnet.pyMETtest_support.pytest_tarfile.pytest_timeout.pytest_urllib2.pytest_weakref.pytest_weakset.pytest_wsgiref.pytest_zipfile.pytime_hashlib.pymapping_tests.pyMSTnullbytecert.pemPRCtest_argparse.pytest_asyncgen.pytest_asynchat.pytest_asyncore.pytest_binascii.pytest_calendar.pyROCtest_cmd_line.pytest_colorsys.pytest_contains.pytest_cprofile.pytest_crashers.pytest_datetime.pytest_dbm_dumb.pytest_dbm_ndbm.pytest_descrtut.pytest_doctest.txttest_doctest2.pyROKtest_getargs2.pytest_memoryio.pytest_operator.pytest_optparse.pytest_platform.pytest_plistlib.pytest_property.pytest_readline.pytest_regrtest.pytest_setcomps.pytest_strftime.pytest_strptime.pytest_symtable.pytest_tempfile.pytest_textwrap.pytest_tokenize.pytest_unittest.pytest_urlparse.pytest_userdict.pytest_userlist.pytest_winsound.pybadsyntax_3131.pydatetimetester.pyinspect_fodder.pymake_ssl_certs.pysample_doctest.pytest_augassign.pytest_dictcomps.pytest_dictviews.pytest_distutils.pytest_doctest2.txttest_doctest3.txttest_doctest4.txttest_docxmlrpc.pytest_ensurepip.pytest_enumerate.pytest_fileinput.pyWETtest_fractions.pyAsiatest_funcattrs.pytest_functools.pytest_ipaddress.pytest_itertools.pytest_largefile.pytest_linecache.pytest_listcomps.pytest_metaclass.pyAdentest_mimetypes.pytest_peepholer.pytest_pkgimport.pytest_posixpath.pytest_selectors.pytest_startfile.pytest_structseq.pytest_telnetlib.pytest_threading.pytest_traceback.pytest_unpack_ex.pyBakutest_urllibnet.pytest_utf8_mode.pytest_xml_etree.pytest_zipfile64.pytest_zipimport.pybytecode_helper.pydoctest_aliases.pyinspect_fodder2.pyDilikeycert.passwd.pemmath_testcases.txtmemory_watchdog.pyGazassl_key.passwd.pemtest___future__.pytest_compileall.pytest_contextlib.pytest_coroutines.pytest_decorators.pytest_exceptions.pytest_file_eintr.pytest_generators.pytest_htmlparser.pytest_isinstance.pytest_memoryview.pytest_py_compile.pyHovdtest_statistics.pytest_stringprep.pytest_typechecks.pytest_urllib2net.pytest_userstring.pytest_utf8source.pytest_webbrowser.pytest_xmlrpc_net.pytest_xxtestfuzz.pytest_yield_from.pytokenize_tests.txtcmath_testcases.txtfloating_points.txtoutstanding_bugs.pyOmsktalos-2019-0758.pemtest_asdl_parser.pytest_code_module.pytest_collections.pytest_dataclasses.pytest_defaultdict.pytest_genericpath.pytest_httpservers.pytest_int_literal.pytest_ossaudiodev.pytest_pickletools.pytest_rlcompleter.pyOraltest_robotparser.pytest_tracemalloc.pytest_ttk_guionly.pytest_unicodedata.pytest_xml_etree_c.pytf_inherit_check.pybadsyntax_future3.pybadsyntax_future4.pybadsyntax_future5.pybadsyntax_future6.pybadsyntax_future7.pyAmmanbadsyntax_future8.pybadsyntax_future9.pybadsyntax_pep3120.pytest__osx_support.pytest_bigaddrspace.pytest_charmapcodec.pytest_codecmaps_cn.pytest_codecmaps_hk.pytest_codecmaps_jp.pytest_codecmaps_kr.pytest_codecmaps_tw.pytest_configparser.pyAqtautest_dict_version.pytest_dummy_thread.pytest_faulthandler.pytest_finalization.pytest_genericclass.pytest_http_cookies.pytest_modulefinder.pytest_ordered_dict.pytest_socketserver.pytest_subclassinit.pytest_sys_settrace.pytest_ttk_textonly.pytest_unicode_file.pytest_univnewlines.pytest_winconsoleio.pyzip_cp437_header.zipChitabadsyntax_future10.pydataclass_module_1.pydataclass_module_2.pydataclass_textanno.pymod_generics_cache.pyDaccaSine-1000Hz-300ms.aiftest_baseexception.pytest_normalization.pytest_numeric_tower.pytest_script_helper.pytest_structmembers.pytest_threadsignals.pytest_codeccallbacks.pytest_generator_stop.pyDhakatest_http_cookiejar.pytest_keywordonlyarg.pytest_multibytecodec.pytest_sys_setprofile.pywin_console_handler.pyexception_hierarchy.txttest_cmd_line_script.pytest_dummy_threading.pyDubaitest_string_literals.pytest_threaded_import.pytest_threading_local.pytest_urllib_response.pyKabul_test_multiprocessing.pysignalinterproctester.pytest_abstract_numbers.pytest_contextlib_async.pytest_difflib_expect.htmltest_threadedtempfile.pytest_urllib2_localnet.pydataclass_module_1_str.pydataclass_module_2_str.pyformatfloat_testcases.txtmultibytecodec_support.pytest_c_locale_coercion.pytest_codecencodings_cn.pytest_codecencodings_hk.pytest_codecencodings_jp.pytest_codecencodings_kr.pytest_codecencodings_tw.pyMacaotest_zipimport_support.pytest_concurrent_futures.pytest_xml_dom_minicompat.pythreaded_import_hangers.pytest_exception_hierarchy.pytest_unicode_identifiers.pytest_exception_variations.pytest_multiprocessing_fork.pysample_doctest_no_doctests.pytest_dynamicclassattribute.pyMacautest_multiprocessing_spawn.pytest_codecencodings_iso2022.pytest_unicode_file_functions.pysample_doctest_no_docstrings.pyselfsigned_pythontestdotnet.pemQatar"test_multiprocessing_forkserver.py%test_multiprocessing_main_handling.py6tokenize_tests-utf8-coding-cookie-and-utf8-bom-sig.txt8tokenize_tests-latin1-coding-cookie-and-utf8-bom-sig.txt9tokenize_tests-no-coding-cookie-and-utf8-bom-sig-only.txt9tokenize_tests-utf8-coding-cookie-and-no-utf8-bom-sig.txtvenvntSeoulTokyoTomskactivate.batAlmatyActivate.ps1deactivate.batposixAnadyractivate.cshactivate.fishcommonAqtobeactivateAtyrauaudio.pyimage.pymultipart.pyapplication.pynonmultipart.py	header.pyBeirut	policy.py
+charset.pyencoders.pygenerator.pyiterators.py_parseaddr.pybase64mime.pyBruneifeedparser.pyquoprimime.py_policybase.pyarchitecture.rst_encoded_words.pycontentmanager.pyHarbinheaderregistry.py_header_value_parser.pyos.pyuu.pyast.pybdb.pybz2.pycgi.pycsv.pyctypestest_anon.pyHebrontest_cast.pytest_find.pytest_init.pytest_libc.pytest_repr.pytest_sizes.pytest_win32.pytest_arrays.pytest_cfuncs.pytest_values.pytest_buffers.pytest_delattr.pytest_funcptr.pytest_loading.pytest_numbers.pytest_objects.pytest_pep3118.pytest_slicing.pyKuwaittest_strings.pytest_byteswap.pytest_keeprefs.pytest_macholib.pytest_pickling.pytest_pointers.pytest_wintypes.pytest_bitfields.pytest_callbacks.pytest_internals.pytest_refcounts.pytest_stringptr.pytest_frombuffer.pytest_incomplete.pytest_parameters.pytest_prototypes.pytest_python_api.pytest_structures.pytest_checkretval.pytest_as_parameter.pytest_memfunctions.pytest_random_things.pytest_struct_fields.pytest_returnfuncptrs.pytest_varsize_struct.pyManilatest_array_in_pointer.pytest_simplesubclasses.pytest_unaligned_structures.py_aix.pymacholibdyld.pydylib.pyframework.pyMuscatREADME.ctypesfetch_macholibfetch_macholib.bat
+_endian.pywintypes.pyRiyadhpanel.py
+has_key.py
+textpad.pydis.pyimp.pymsilib	schema.pySaigonsequence.pypdb.pypty.pyssl.pytty.pyrobotparser.pyxmlrpcTaipeiaifc.pylocks.pytasks.py
+futures.py
+runners.py
+streams.pysslproto.pyprotocols.pybase_tasks.pycoroutines.pytransports.pybase_events.pyunix_events.pybase_futures.pywindows_utils.pyformat_helpers.pywindows_events.pybase_subprocess.pyTehranproactor_events.pyselector_events.pycode.pyenum.pygzip.pyhmac.pyidlelibIconstk.gifidle.icoThimbu	idle.icnsidle_16.gifidle_16.pngidle_32.gifidle_32.pngidle_48.gifidle_48.pngplusnode.gifminusnode.gifopenfolder.gifrpc.pyrun.pygrep.pyUrumqiidle.pyundo.pyidle.batidle.pywTODO.txtYangon	ChangeLog	editor.py	format.py	help.html	idle_testhtest.py
+mock_tk.pytemplate.pytest_rpc.pytest_run.pymock_idle.pytest_grep.pytest_help.pytest_tree.pytest_undo.pyBaghdadtest_query.pytest_editor.pytest_iomenu.pytest_macosx.pytest_outwin.pytest_search.pytest_window.pytest_browser.pyBahraintest_calltip.pytest_history.pytest_pyparse.pytest_pyshell.pytest_replace.pytest_sidebar.pytest_tooltip.pytest_warning.pytest_debugger.pytest_debugobj.pytest_editmenu.pyBangkoktest_mainmenu.pytest_squeezer.pytest_textview.pytest_calltip_w.pytest_colorizer.pytest_delegator.pytest_multicall.pytest_runscript.pytest_statusbar.pytest_autoexpand.pytest_config_key.pytest_debugger_r.pytest_debugobj_r.pyBarnaultest_help_about.pytest_parenmatch.pytest_percolator.pytest_redirector.pytest_searchbase.pytest_zoomheight.pytest_codecontext.pytest_hyperparser.pytest_pathbrowser.pytest_stackviewer.pytest_autocomplete.pytest_configdialog.pyBishkektest_scrolledlist.pytest_searchengine.pytest_autocomplete_w.py	iomenu.py	macosx.py	outwin.py	window.pyColombo
+browser.py
+calltip.py
+extend.txt
+history.py
+NEWS2x.txt
+pyparse.py
+pyshell.pyIrkutsk
+replace.py
+sidebar.py
+tooltip.py
+zzdummy.pyCREDITS.txtdebugger.pydebugobj.pyHISTORY.txtmainmenu.pysqueezer.pytextview.pycalltip_w.pycolorizer.pydelegator.pydynoption.pymulticall.pyrunscript.pystatusbar.pyJakartaautoexpand.pyconfig_key.pydebugger_r.pydebugobj_r.pyhelp_about.pyparenmatch.pypercolator.pyredirector.pysearchbase.pyzoomheight.pyKarachicodecontext.pyhyperparser.pypathbrowser.pystackviewer.pyautocomplete.pyKashgarconfig-keys.defKolkataconfig-main.defconfigdialog.pyscrolledlist.pysearchengine.pyautocomplete_w.pyKuchingconfig-highlight.defMagadanconfig-extensions.deflib2to3fixes	fix_ne.py
+fix_map.py
+fix_zip.pyfix_dict.pyfix_exec.pyRangoonfix_long.pyfix_next.pyfix_repr.pyfix_apply.pyfix_input.pyfix_paren.pyfix_print.pyfix_raise.pyfix_throw.pyfix_types.pyfix_buffer.pyfix_except.pyfix_filter.pyfix_future.pyfix_idioms.pyfix_import.pyfix_intern.pyfix_reduce.pyTbilisifix_reload.pyfix_urllib.pyfix_xrange.pyfix_asserts.pyfix_getcwdu.pyfix_has_key.pyfix_imports.pyfix_nonzero.pyfix_renames.pyfix_sys_exc.pyfix_unicode.pyfix_execfile.pyfix_exitfunc.pyfix_imports2.pyThimphufix_operator.pyfix_ws_comma.pyfix_funcattrs.pyfix_itertools.pyfix_metaclass.pyfix_raw_input.pyfix_basestring.pyfix_isinstance.pyfix_xreadlines.pyfix_methodattrs.pyfix_numliterals.pyfix_set_literal.pyfix_tuple_params.pyfix_standarderror.pyfix_itertools_imports.pypgen2Yakutskconv.pypgen.py	driver.py
+grammar.pyliterals.pybom.pyfixersmyfixesfix_last.pyfix_first.pyfix_parrot.pyfix_explicit.pyfix_preorder.pybad_order.pyYerevanno_fixer_cls.pyparrot_example.pyAshgabatfalse_encoding.pypy2_test_grammar.pypy3_test_grammar.pydifferent_encoding.pyinfinite_recursion.pyCalcuttatest_main.pytest_fixers.pytest_pytree.pytest_refactor.pytest_all_fixers.pypytree_idempotency.py	pygram.py	pytree.py
+patcomp.pyGrammar.txtrefactor.pybtm_utils.pyfixer_base.pyfixer_util.pybtm_matcher.pyPatternGrammar.txtDamascusGrammar3.7.6.final.0.pickleDushanbe"PatternGrammar3.7.6.final.0.picklelzma.pysite.pyJayapuradbapi.py	backup.py
+factory.pyregression.pytransactions.pyuserfunctions.pyKatmandu	dbapi2.pystat.pythis.pyKhandygatest_ttktest_style.pyMakassartest_extensions.pytest_tkintertest_font.pytest_misc.pytest_images.pytest_loadtk.pytest_variables.pySakhalintest_geometry_managers.pyruntktests.pywidget_tests.pydnd.pytix.pyttk.pyfont.py	dialog.pyfiledialog.pymessagebox.pycolorchooser.pycommondialog.pyscrolledtext.pyShanghaisimpledialog.pyuuid.pywave.py
+headers.pyvalidate.pysimple_server.py_pyio.pyTashkentcgitb.pychunk.pycrypt.pyheapq.pynetrc.pypipes.pypydoc.pyrunpy.pysched.pyshlex.pysmtpd.pysunau.pytrace.pyTel_Avivdummy.pytestmocktestmock.pytestwith.pytestpatch.pyUst-Neratesthelpers.pytestcallable.pytestsealable.pytestsentinel.pytestmagicmethods.pytest_case.pytest_break.pytest_suite.pytest_result.pytest_runner.pytest_setups.py	Ashkhabadtest_program.pytest_skipping.py_test_warnings.pytest_discovery.pytest_assertions.pytest_functiontestcase.pycase.pymock.py	Chongqingsuite.py	loader.py	result.py	runner.py
+signals.py	base64.py	Chungking	binhex.py	bisect.py	codecs.py	codeop.py	Famagustatest_log.py	Hong_KongSetup.sampletest_core.pytest_dist.pytest_bdist.pytest_build.pytest_check.pytest_clean.pytest_sdist.pytest_spawn.pytest_upload.pyincludetest.rst	Jerusalemtest_install.pytest_version.pytest_build_py.pytest_dep_util.pytest_dir_util.pytest_register.pytest_bdist_msi.pytest_bdist_rpm.pytest_build_ext.py	Kamchatkatest_extension.pytest_file_util.pytest_text_file.pytest_bdist_dumb.pytest_build_clib.pytest_config_cmd.pytest_install_lib.py	Kathmandutest_archive_util.pytest_install_data.pytest_msvccompiler.pytest_bdist_wininst.py	Pontianaktest_build_scripts.pytest_msvc9compiler.pytest_unixccompiler.pytest_cygwinccompiler.pytest_install_headers.pytest_install_scripts.pytest_versionpredicate.py	Pyongyang	Qyzylordabdist.pyclean.py	Samarkandbdist_msi.pybdist_dumb.pyinstall_data.py	Vientianewininst-6.0.exe
+Choibalsan
+Phnom_Penhwininst-7.1.exe
+Ulan_BatorHo_Chi_Minhwininst-8.0.exeKrasnoyarskwininst-9.0.exebuild_scripts.pycommand_templateNovosibirskUlaanbaatarwininst-10.0.exeVladivostokwininst-14.0.exeinstall_headers.pyKuala_LumpurNovokuznetskwininst-9.0-amd64.exeSrednekolymskwininst-10.0-amd64.exeUjung_PandangYekaterinburgwininst-14.0-amd64.exeCubadir_util.pyEireccompiler.pyfile_util.pytext_file.pybcppcompiler.pyfancy_getopt.pymsvccompiler.py_msvccompiler.pymsvc9compiler.pyunixccompiler.pycygwinccompiler.pyversionpredicate.pyhz.pygbk.pyoem.pybig5.pyidna.pymbcs.pycp037.pycp273.pycp424.pycp437.pycp500.pycp720.pycp737.pycp775.pycp850.pyIrancp852.pycp855.pycp856.pycp857.pycp858.pycp860.pycp861.pycp862.pycp863.pyW-SUcp864.pycp865.pycp866.pycp869.pycp874.pycp875.pycp932.pycp949.pycp950.pyjohab.pyutf_7.pyutf_8.pyChile	cp1006.py	cp1026.py	cp1125.py	cp1140.py	cp1250.py	cp1251.py	cp1252.py	cp1253.py	cp1254.pyContinental	cp1255.py	cp1256.py	cp1257.py	cp1258.py	euc_jp.py	euc_kr.py	gb2312.py	koi8_r.py	koi8_t.py	koi8_u.py	kz1048.py	palmos.py	rot_13.py	utf_16.py	utf_32.py
+aliases.pyEasterIsland
+charmap.py
+cp65001.py
+gb18030.py
+latin_1.py
+ptcp154.py
+tis_620.pypunycode.pyuu_codec.pybig5hkscs.pybz2_codec.pyhex_codec.pyhp_roman8.pyiso8859_1.pyEgyptiso8859_2.pyiso8859_3.pyiso8859_4.pyiso8859_5.pyiso8859_6.pyiso8859_7.pyiso8859_8.pyiso8859_9.pymac_farsi.pymac_greek.pymac_roman.pyshift_jis.pyundefined.pyutf_16_be.pyutf_16_le.pyutf_32_be.pyutf_32_le.pyutf_8_sig.pyiso2022_jp.pyiso2022_kr.pyiso8859_10.pyiso8859_11.pyiso8859_13.pyiso8859_14.pyiso8859_15.pyiso8859_16.pymac_arabic.pymac_latin2.pyzlib_codec.pymac_iceland.pymac_turkish.pybase64_codec.pyeuc_jis_2004.pyeuc_jisx0213.pyiso2022_jp_1.pyiso2022_jp_2.pyiso2022_jp_3.pymac_centeuro.pymac_croatian.pymac_cyrillic.pymac_romanian.pyquopri_codec.pyJapaniso2022_jp_ext.pyshift_jis_2004.pyshift_jisx0213.pyunicode_escape.pyiso2022_jp_2004.pyunicode_internal.pyraw_unicode_escape.py	ensurepip_bundledLibyaAfricapip-19.2.3-py2.py3-none-any.whlJubaLome&setuptools-41.2.0-py2.py3-none-any.whl_uninstall.py	ftplib.py	getopt.py	imghdr.pyAccramachinery.py_bootstrap.py_bootstrap_external.py	locale.py	ntpath.py	opcode.py	poplib.py	pprint.py	pstats.pyCairo	pyclbr.py	quopri.py	random.py	shelve.pyCeuta	signal.py	sndhdr.py	socket.py	string.py	symbol.py	timeit.py	turtle.py	xdrlib.py	zipapp.py
+_py_abc.pyDakar	thread.py
+copyreg.py
+difflib.pyLagos
+doctest.py
+filecmp.py
+fnmatch.py
+getpass.py
+gettext.py
+hashlib.py
+imaplib.py
+inspect.py
+keyword.py
+macpath.py
+mailbox.py
+mailcap.py
+nntplib.py
+numbers.py
+pkgutil.py
+profile.py
+pydoc_data	topics.py
+_pydoc.css
+reprlib.py
+secrets.pyTunis
+smtplib.py
+turtledemonim.pychaos.pyclock.pypaint.pypeace.py	forest.py
+penrose.py
+rosette.pyAsmara
+turtle.cfg
+yinyang.pybytedesign.pycolormixer.pylindenmayer.pyround_dance.pytwo_canvases.pyfractalcurves.pyminimal_hanoi.pyplanet_and_moon.pyAsmerasorting_animate.py
+weakref.py
+zipfile.pyargparse.pyasynchat.pyasyncore.pycalendar.pyBamakocolorsys.pyBanguicProfile.pyoperator.pyoptparse.pyplatform.pyplistlib.pysymtable.pytabnanny.pyBanjultempfile.pytextwrap.pywarnings.py_strptime.pyBissaufileinput.pyformatter.pyfractions.pylinecache.pymimetypes.pyposixpath.pyselectors.pysre_parse.pytelnetlib.pyDoualathreading.pytraceback.py__future__.py_pydecimal.pycompileall.pycontextlib.pynturl2path.pypy_compile.pystatistics.pystringprep.pywebbrowser.pyHarare_bootlocale.py_markupbase.py_weakrefset.pyantigravity.pycontextvars.pydataclasses.pygenericpath.pypickletools.pyrlcompleter.pysre_compile.pytracemalloc.py_compression.py_osx_support.pyconfigparser.pymodulefinder.pydummyKigaliheap.pypool.py
+context.pyLuandareduction.pyforkserver.pypopen_fork.pysynchronize.pysharedctypes.pyresource_sharer.pypopen_forkserver.pypopen_spawn_posix.pypopen_spawn_win32.pysemaphore_tracker.pysocketserver.py_dummy_thread.py_sitebuiltins.pysre_constants.py__phello__.foo.py_compat_pickle.pydummy_threading.pyLusaka_collections_abc.py_threading_local.pyMalaboMaputoMaseruNiameyAbidjanAlgiersConakryKampalaMbabaneNairobiTripoliBlantyreDjiboutiEl_AaiunFreetownGaboroneKhartoumKinshasaMonroviaNdjamenaSao_TomeTimbuktuWindhoek	Bujumbura	Mogadishu
+Casablanca
+Libreville
+Lubumbashi
+Nouakchott
+Porto-NovoAddis_AbabaBrazzavilleOuagadougouJohannesburgDar_es_SalaamArcticLongyearbyenBrazilAcreEast	DeNoronhaCanadaYukonNewfoundlandSaskatchewanEast-SaskatchewanEuropeKievOsloRigaRomeKirovMaltaMinskParisSofiaVaduzAthensBerlinDublinJerseyLisbonLondonMadridMonacoMoscowPragueSamaraSkopjeTiraneViennaWarsawZagrebZurichAndorraBelfastSaratovTallinnVaticanVilniusBelgradeBrusselsBudapestBusingenChisinauGuernseyHelsinkiSarajevoTiraspolUzhgorod	Amsterdam	Astrakhan	Bucharest	Gibraltar	Ljubljana	Mariehamn	Podgorica	Stockholm	Ulyanovsk	Volgograd
+Bratislava
+Copenhagen
+Luxembourg
+San_Marino
+Simferopol
+ZaporozhyeIsle_of_ManKaliningradIndianMaheCocosChagosComoroMayotteReunionMaldives	Christmas	Kerguelen	MauritiusAntananarivoIsraelMexicoBajaSurGeneral	BajaNorteNavajoPolandTurkeyAmericaAdakAtkaLimaNomeArubaBahiaBelemBoiseSitkaThuleBelizeBogotaCancunCaymanCuiabaDawsonDenverGuyanaHavanaInuvikJuneauLa_PazMaceioManausMeridaNassauPanamaRecifeReginaVirginAntiguaCaracasCayenneChicagoCrestonCuracaoDetroitGodthabGrenadaHalifaxIndianaKnoxVevayMarengoWinamac	Tell_City	Vincennes
+PetersburgIqaluitKnox_INManaguaMarigotMonctonNipigonNoronhaOjinagaPhoenixRosarioTijuanaTorontoTortolaYakutatAnguillaAsuncionAtikokanBarbadosDominicaEdmontonEirunepeEnsenadaKentucky
+MonticelloMazatlanMiquelonMontrealNew_YorkResoluteSantaremSantiagoShiprockSt_JohnsSt_KittsSt_LuciaWinnipeg	Anchorage	Araguaina	ArgentinaSaltaTucumanUshuaiaLa_RiojaSan_JuanSan_LuisRio_GallegosComodRivadavia	Boa_Vista	Chihuahua	Fortaleza	Glace_Bay	Goose_Bay	Guatemala	Guayaquil	Matamoros	Menominee	Monterrey	Sao_Paulo	St_Thomas	Vancouver
+Costa_Rica
+Fort_Wayne
+Grand_Turk
+Guadeloupe
+Hermosillo
+Kralendijk
+Martinique
+Metlakatla
+Montevideo
+Montserrat
+Paramaribo
+Porto_Acre
+Rio_Branco
+St_Vincent
+WhitehorseEl_SalvadorFort_NelsonLos_AngelesMexico_CityPangnirtungPorto_VelhoPuerto_RicoRainy_RiverTegucigalpaThunder_BayYellowknifeBlanc-SablonCampo_GrandeDanmarkshavnDawson_CreekNorth_DakotaBeulahCenter	New_SalemPunta_ArenasRankin_InletSanta_IsabelScoresbysundCambridge_BayCoral_HarbourLower_PrincesPort_of_SpainSanto_DomingoSt_BarthelemySwift_CurrentBahia_BanderasPort-au-PrinceGB-EireIcelandNZ-CHATYapApiaFijiGuamNiueTrukWakeChuukEfateNauruPalauEasterKosraeMajuroMidwayNoumeaPonapeSaipanTahitiTarawaWallisChathamFakaofoGambierNorfolkPohnpeiAucklandFunafutiHonoluluJohnstonPitcairn	Enderbury	Galapagos	Marquesas	Pago_Pago	Rarotonga	Tongatapu
+KiritimatiGuadalcanalBougainvillePort_MoresbySystemVAST4CST6EST5MST7PST8YST9HST10AST4ADTYST9YDTFaroeAzoresCanaryFaeroeBermudaMadeiraStanley	Jan_Mayen	Reykjavik	St_Helena
+Cape_VerdeSouth_GeorgiaHongkongPortugal	AustraliaACTLHINSWEuclaNorthPerthSouthCurrieDarwinHobartSydneyAdelaideBrisbaneCanberraLindemanTasmaniaVictoria	Lord_Howe	Melbourne
+Queensland
+YancowinnaBroken_Hill
+AntarcticaCaseyDavisSyowaTrollMawsonPalmerVostokMcMurdoRothera	Macquarie
+South_PoleDumontDUrvillehttp1.0http.tclauto.tclencodingbig5.enc	ascii.enc	cp437.enc	cp737.enc	cp775.enc	cp850.enc	cp852.enc	cp855.enc	cp857.enc	cp860.enc	cp861.enc	cp862.enc	cp863.enc	cp864.enc	cp865.enc	cp866.enc	cp869.enc	cp874.enc	cp932.enc	cp936.enc	cp949.enc	cp950.enc
+cp1250.enc
+cp1251.enc
+cp1252.enc
+cp1253.enc
+cp1254.enc
+cp1255.enc
+cp1256.enc
+cp1257.enc
+cp1258.enc
+ebcdic.enc
+euc-cn.enc
+euc-jp.enc
+euc-kr.enc
+gb1988.enc
+gb2312.enc
+koi8-r.enc
+koi8-u.enc
+symbol.encgb12345.enciso2022.encjis0201.encjis0208.encjis0212.encksc5601.encmacThai.enctis-620.encdingbats.encmacGreek.encmacJapan.encmacRoman.encshiftjis.enciso8859-1.enciso8859-2.enciso8859-3.enciso8859-4.enciso8859-5.enciso8859-6.enciso8859-7.enciso8859-8.enciso8859-9.encgb2312-raw.enciso2022-jp.enciso2022-kr.enciso8859-10.enciso8859-13.enciso8859-14.enciso8859-15.enciso8859-16.encmacIceland.encmacRomania.encmacTurkish.encmacUkraine.encmacCentEuro.encmacCroatian.encmacCyrillic.encmacDingbats.encinit.tclsafe.tclword.tcl	clock.tcl
+parray.tclhistory.tclpackage.tcltix8.4.3prefTK.csTK.fsTK.cscTK.fscBlue.csGray.csBlue.cscGray.cscTkWin.csTkWin.fs	Bisque.cs	tixmkpref	TkWin.csc	TkWin.fsc
+10Point.fs
+12Point.fs
+14Point.fs
+Bisque.csc
+Old12Pt.fs
+Old14Pt.fs
+SGIGray.cs
+TixGray.cs10Point.fsc12Point.fsc14Point.fscSGIGray.cscTixGray.cscWmDefault.csWmDefault.fsWmDefault.pyWmDefault.cscWmDefault.fscWmDefault.tclWmDefault.txttix.gifbold.xbmcode.xpmexit.xpmnetw.xbmnetw.xpm	about.xpm	leftj.xbm
+drivea.xbm
+drivea.xpm
+italic.xbm
+rightj.xbm
+select.xpmcapital.xbmcenterj.xbmfilebox.xbmfilebox.xpmjustify.xbmnetwork.xpmoptmenu.xpmcombobox.xbmcombobox.xpmharddisk.xpmunderlin.xbmsamplesXpm.tclXpm1.tcl
+CmpImg.tcl
+HList1.tcl
+Sample.tcl
+SGrid0.tcl
+SGrid1.tclCmpImg1.tclCmpImg2.tclCmpImg3.tclCmpImg4.tclDynTree.tclListNBK.tclSHList2.tclSTList1.tclSTList2.tclSTList3.tclAllSampl.tclArrowBtn.tclEditGrid.tclMkChoose.tclMkDirLis.tclMkSample.tclMkScroll.tcltixwidgets.tclfs.tcldecr.xbmdrop.xbmfile.giffile.xbmfile.xpmincr.xbminfo.gifinfo.xpmplus.gifplus.xbmplus.xpmtick.xbm	ck_on.xbm	cross.xbm	minus.gif	minus.xbm	minus.xpm
+ck_def.xbm
+ck_off.xbm
+folder.xbm
+folder.xpm
+system.xbmplusarm.gifplusarm.xbmplusarm.xpmresize1.xbmresize2.xbmrestore.xbmsrcfile.gifsrcfile.xbmsrcfile.xpmwarning.gifwarning.xpmact_fold.gifact_fold.xbmact_fold.xpmbalarrow.xbmcbxarrow.xbmhourglas.xbmmaximize.xbmminimize.xbmminusarm.gifminusarm.xbmminusarm.xpmno_entry.gifno_entry.xpmopenfile.xbmopenfold.gifopenfold.xbmopenfold.xpmtextfile.giftextfile.xbmtextfile.xpmhourglas.maskmktransgif.tclTix.tclGrid.tclInit.tcl	Event.tcl	HList.tcl	SGrid.tcl	Shell.tcl	tix84.dll	tix84.lib	TList.tcl	Utils.tcl	VTree.tcl	WInfo.tcl
+Compat.tcl
+DirBox.tcl
+STList.tcl
+VStack.tclConsole.tclDefSchm.tclXMLSchema.xsdxhtml-lat1.entxhtml-symbol.entxhtml-special.enthtml5meta-ext.rncembed-ext.rnccommon-ext.rncits20-html5.rncits20-html5-types.rnccore-scripting-ext.rnc	html5.rnc
+xhtml5.rnccoreosen.msgmessage.pyi	genshi.pydom.pyetree.pyetree_lxml.py	types.pyiapi.pyabc.pyiprocess.pyi
+config.pyistatus_codes.pymisc.py	compat.pycache.py	freeze.pydownload.pyexceptions.pyconfiguration.pysysconfig.pyiwrappers.pyipep425tags.py
+appdirs.pypyparsing.pyeasy_install.pyWHEELRECORDPKCS1_v1_5.pyi	nodes.pyi
+parser.pyiMETADATA	INSTALLERtop_level.txtentry_points.txtauth.pyiconnection.pyi
+compat.pyi__init__.pyibinary.fileresource1.txttest_finder.pytest_path_hook.pytest_case_sensitivity.pyziptestdata.ziptest_api.pytest_path.pyportion1portion2parentchildtwo.pyfooone.pynl.msgGMTUCTUTCbase.py	parser.py
+message.pytext.py
+request.pyresponse.pyasynciodump.pytest_widgets.pyhandlers.pytoken.pytypes.pytest_loader.pytests
+support.pyREADME
+install.pycore.py
+version.py	shutil.py__main__.py
+process.pyconnection.pyJujuyCordobaMendoza	Catamarca
+LouisvilleBuenos_AiresIndianapolisJamaicaCST6CDTEST5EDTMST7MDTPST8PDT	Kwajaleinbitmapsnetwork.xbmharddisk.xbmTree.tcl	Meter.tcl	SText.tcl
+BtnBox.tcl
+DirDlg.tcl
+Select.tcl
+SHList.tclBalloon.tclChkList.tclControl.tclDirList.tclDirTree.tclFileDlg.tclFileEnt.tclOptMenu.tclPopMenu.tclStdBBox.tclSWindow.tclCObjView.tclComboBox.tclDragDrop.tclEFileDlg.tclLabEntry.tclLabFrame.tclNoteBook.tclPanedWin.tclpkgIndex.tclSListBox.tcl__init__.pyceval.himport.h	context.h	pystate.h
+warnings.hDialogS.tclDtlList.tclFileBox.tclFileCbx.tclHListDD.tclLabWidg.tclListNBk.tclOldUtil.tclResizeH.tclSimpDlg.tclStatBar.tclSWidget.tclVResize.tclEFileBox.tclFloatEnt.tclIconView.tclMultView.tclPrimitiv.tclStackWin.tclStdShell.tclVariable.tcl	tk86t.lib
+tcl86t.libtclConfig.shtkstub86.libtclstub86.libtclooConfig.shlibspython3.lib_tkinter.libpython37.liblibpython37.aToolsdemoss1.pybeer.pylife.pyhanoi.pymcast.py	eiffel.py	markov.py	queens.py	redemo.py	vector.py
+rpython.pyrpythond.pysortvisu.pyi18n	msgfmt.pypygettext.pymakelocalealias.pyparser
+unparse.pypyncheXrgb.txtxlicense.txtMain.py
+ColorDB.py
+pynche.pywwebsafe.txtChipViewer.pyListViewer.pyTextViewer.pywebcolors.txtStripViewer.pySwitchboard.pynamedcolors.txtPyncheWidget.pyTypeinViewer.pyDetailsViewer.pyhtml40colors.txtpyColorChooser.pylll.py2to3.pydiff.pyh2py.pylfcr.pysuff.pybyext.pyfixps.pyifdef.pyndiff.pypdeps.pyptags.pyrgrep.pyserve.pywhich.py	dutree.py	eptags.py	fixcid.py	fixdiv.py	google.py	md5sum.py	mkreal.py	nm2def.py	pydoc3.py	pyvenv.py	smelly.py
+abitype.py
+finddiv.py
+pathfix.py
+pindent.pycheckpip.pycheckpyc.pycopytime.pylinktree.pyobjgraph.pypysource.pyreindent.pyuntabify.pybyteyears.pydb2pickle.pyfixheader.pyfixnotice.pyhighlight.pypickle2db.pyrun_tests.pytexi2html.pyfind-uname.pygprof2html.pymake_ctype.pypatchcheck.pyanalyze_dxp.pycleanfuture.pycombinerefs.pyfindlinksto.pyupdate_file.pyfindnocoding.pymailerdaemon.pyreindent-rst.pywin_add2path.pyparseentities.pygenerate_opcode_h.pyimport_diagnostics.pyfind_recursionlimit.pyparse_html5_entities.pyget-remote-certificate.pyincludeast.haccu.hasdl.hcode.hdtoa.heval.hnode.hpgen.hpyfpe.hpymem.htoken.hbitset.hcodecs.hinternalgil.hmem.hhamt.hhash.h	condvar.h
+pygetopt.hobject.hopcode.hosdefs.hpyhash.hpymath.hpyport.hPython.hpytime.h	compile.h	errcode.h	grammar.h	marshal.h	objimpl.h	pyarena.h	pyctype.h	pydebug.h	pyexpat.h	pymacro.h	ucnhash.h
+abstract.h
+datetime.h
+graminit.h
+osmodule.h
+parsetok.h
+pyatomic.h
+pyconfig.h
+pydtrace.h
+pyerrors.h
+pystrcmp.h
+pystrhex.h
+pystrtod.h
+pythread.h
+symtable.hfileutils.hgenobject.hintrcheck.hpy_curses.hpycapsule.hpythonrun.hsetobject.hstructseq.hsysmodule.htraceback.htypeslots.hboolobject.hcellobject.hdictobject.henumobject.hfileobject.hfuncobject.hiterobject.hlistobject.hlongobject.hmodsupport.hpatchlevel.hPython-ast.hbltinmodule.hbytesobject.hclassobject.hdescrobject.hfloatobject.hframeobject.hlongintrepr.hmetagrammar.hodictobject.hpgenheaders.hpylifecycle.hpymacconfig.hrangeobject.hsliceobject.htupleobject.hmemoryobject.hmethodobject.hmoduleobject.hstructmember.hbytes_methods.hcomplexobject.hunicodeobject.hweakrefobject.hbytearrayobject.hnamespaceobject.hdynamic_annotations.hScriptspip.exepip3.exe
+pip3.7.exeeasy_install.exeeasy_install-3.7.exepython3.dllpython37.dllvcruntime140.dll
+_locale.py_lzma.py_abc.py_md5.py	_heapq.py_testconsole.py
+marshal.pyzlib.py_weakref.pywinsound.py_codecs_jp.pyzipimport.pybinascii.py_testbuffer.py
+_lsprof.py_codecs_kr.py_hashlib.py_testcapi.pymmap.pyarray.py_warnings.py_codecs_cn.py_sre.py	winreg.pycmath.pyunicodedata.py_ctypes_test.py_overlapped.py
+_blake2.pynt.py_sha1.py
+_bisect.py_imp.py_json.py
+audioop.py	select.py_sha3.pytime.py_codecs_hk.py_elementtree.pyerrno.pyxxsubtype.py
+_sha256.py_ssl.py_sqlite3.py
+_socket.py
+_random.py
+pyexpat.py
+_ctypes.py
+_struct.py	msvcrt.py_bz2.py_testmultiphase.py_tkinter.py	_queue.py_tracemalloc.py_operator.py_codecs_tw.py
+_thread.py_functools.py
+_pickle.py_multiprocessing.py_stat.py_symtable.py	atexit.py
+_winapi.py
+_sha512.py_testimportmultiple.py
+_codecs.py
+_string.py_datetime.py_ast.py
+_signal.py_codecs_iso2022.py_contextvars.py_asyncio.py_io.py
+_opcode.py_decimal.pyfaulthandler.py_multibytecodec.py_msi.pyHello.pymisc.xmlDefault.xmleditor.codeinsight.xmldimensions.xmloptions.xmlcolors.scheme.xmlextensionsRootType.xmlfeature.usage.statistics.xmlstubIndex.xmlfiletypes.xmlide.general.xmlimages.support.xmllaf.xmljdk.table.xmlpackages.xmlrecentProjectDirectories.xml!statistics.application.usages.xmlwindow.manager.xmldebugger.xmlrunner.layout.xmlextResourcesAssignment2.pyAssignment1.pyQuad.imlQuad.node_repl_historypackage.jsonBNTUSER.DAT{fd9a35da-49fe-11e9-aa2c-248a07783950}.TxR.0.regtrans-msbattery-report.html8NTUSER.DAT{fd9a35da-49fe-11e9-aa2c-248a07783950}.TxR.blf
+.gitignore
+.gitconfigBNTUSER.DAT{fd9a35da-49fe-11e9-aa2c-248a07783950}.TxR.2.regtrans-mspackage-lock.json!New Doc 2020-07-13 15.35.27_1.jpgBNTUSER.DAT{fd9a35da-49fe-11e9-aa2c-248a07783950}.TxR.1.regtrans-msAssignment.pyusage.statistics.xmlAss.py                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

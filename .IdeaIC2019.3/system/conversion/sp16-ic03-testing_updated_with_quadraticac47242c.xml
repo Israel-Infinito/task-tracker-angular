@@ -1,0 +1,17 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\sp16-ic03-testing updated with quadratic\.idea\vcs.xml" timestamp="1618221864779" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\sp16-ic03-testing updated with quadratic\.idea\misc.xml" timestamp="1618235094652" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\sp16-ic03-testing updated with quadratic\ic03-testing.iml" timestamp="1618221864731" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\sp16-ic03-testing updated with quadratic\.idea\modules.xml" timestamp="1618221864794" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\sp16-ic03-testing updated with quadratic\.idea\workspace.xml" timestamp="1618244805796" />
+  </project-files>
+</conversion>

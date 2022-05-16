@@ -1,0 +1,8 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="691" y="351" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="471" y="105" />
+    <location key="SettingsEditor.0.0.1366.768" x="189" y="50" />
+    <location key="#HTTP_Proxy.0.0.1366.768" x="275" y="41" />
+  </component>
+</application>

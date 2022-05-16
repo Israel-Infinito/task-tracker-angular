@@ -1,0 +1,53 @@
+00:00:00.003378 main     VirtualBox COM Server 6.1.22 r144080 win.amd64 (Apr 28 2021 17:23:11) release log
+00:00:00.003382 main     Log opened 2021-05-19T10:10:08.213043700Z
+00:00:00.003383 main     Build Type: release
+00:00:00.003387 main     OS Product: Windows 10
+00:00:00.003388 main     OS Release: 10.0.19042
+00:00:00.003389 main     OS Service Pack: 
+00:00:00.017207 main     DMI Product Name: HP Laptop 15-dy1xxx
+00:00:00.026669 main     DMI Product Version:  
+00:00:00.026679 main     Firmware type: UEFI
+00:00:00.026914 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.026927 main     Host RAM: 7945MB (7.7GB) total, 4439MB (4.3GB) available
+00:00:00.026931 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.026931 main     Process ID: 11232
+00:00:00.026932 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.074106          VirtualBox: object creation starts
+00:00:00.075618          Home directory: 'C:\Users\23481\.VirtualBox'
+00:00:00.075879          Installed Drivers:
+00:00:00.084589            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.22.44080)
+00:00:00.085066            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.22.44080)
+00:00:00.085516            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.22.44080)
+00:00:00.086084            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.22.44080)
+00:00:00.090713          Loading settings file "C:\Users\23481\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.096241          usbLibGetDevices: Starting USB device enumeration
+00:00:00.123599          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&213293b9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.124198          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&213293b9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.124270          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&213293b9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.126131          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.127406          USB: Unknown USB device detected (idVendor: 0x0408, idProduct: 0x5365)
+00:00:00.128307          USB: Unknown USB device detected (idVendor: 0x04f3, idProduct: 0x2753)
+00:00:00.128592          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb00a)
+00:00:00.226378          netIfIsWireless: CreateFile on '\\.\{E3C8AAD3-7577-4D21-A1AE-6825E0747FC9}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.233335          HostDnsMonitor: initializing
+00:00:00.239807          HostDnsMonitor: updating information
+00:00:00.239810          HostDnsMonitor: unchanged
+00:00:00.286164          VD: VDInit finished with VINF_SUCCESS
+00:00:00.292181          Loading settings file "C:\Users\23481\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:00:00.297281          VirtualBox: object created
+00:00:15.847129          Launched VM: 62020704 pid: 9108 (0x2394) frontend: GUI/Qt name: Ubuntu
+00:00:19.821307          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:20.078724          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:20.335069          netIfIsWireless: CreateFile on '\\.\{E3C8AAD3-7577-4D21-A1AE-6825E0747FC9}' failed with rcWin=2 (0x2) - ignoring
+00:04:38.097899          Saving settings file "C:\Users\23481\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:04:38.128481          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:07:38.110823          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:08:10.663240          Saving settings file "C:\Users\23481\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:08:18.097740          Saving settings file "C:\Users\23481\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:18.105638          Saving settings file "C:\Users\23481\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:23.607913 main     VirtualBox: object deletion starts
+00:08:23.607960 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\23481\VirtualBox VMs\Ubuntu\Ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:08:23.608569 main     HostDnsMonitor: shutting down ...
+00:08:23.608618 main     HostDnsMonitor: shut down
+00:08:23.609998 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:08:23.610152 main     VirtualBox: object deleted

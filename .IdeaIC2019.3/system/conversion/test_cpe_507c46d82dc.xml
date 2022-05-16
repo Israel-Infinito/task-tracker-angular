@@ -1,0 +1,16 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\test_cpe_507\.idea\test_cpe_507.iml" timestamp="1615554505183" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\test_cpe_507\.idea\misc.xml" timestamp="1615554505198" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\test_cpe_507\.idea\modules.xml" timestamp="1615554505213" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\test_cpe_507\.idea\vcs.xml" timestamp="1615554505205" />
+    <file path="C:\Users\23481\Desktop\500L Courses\CPE507\test_cpe_507\.idea\workspace.xml" timestamp="1615554649891" />
+  </project-files>
+</conversion>

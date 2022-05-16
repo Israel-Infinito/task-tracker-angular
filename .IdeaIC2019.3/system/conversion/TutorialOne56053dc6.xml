@@ -1,0 +1,18 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\23481\IdeaProjects\TutorialOne\TutorialOne.iml" timestamp="1618062695555" />
+    <file path="C:\Users\23481\IdeaProjects\TutorialOne\.idea\misc.xml" timestamp="1618062742949" />
+    <file path="C:\Users\23481\IdeaProjects\TutorialOne\.idea\modules.xml" timestamp="1618062743004" />
+    <file path="C:\Users\23481\IdeaProjects\TutorialOne\.idea\project-template.xml" timestamp="1618062695540" />
+    <file path="C:\Users\23481\IdeaProjects\TutorialOne\.idea\encodings.xml" timestamp="1618062742987" />
+    <file path="C:\Users\23481\IdeaProjects\TutorialOne\.idea\workspace.xml" timestamp="1618184816184" />
+  </project-files>
+</conversion>

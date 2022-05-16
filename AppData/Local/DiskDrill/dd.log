@@ -1,0 +1,183 @@
+01/06/21 11:26:42 - 
+01/06/21 11:26:42 - DD 4.1.551.0
+01/06/21 11:26:42 - Operating System Name  :  Microsoft Windows 10 Home
+01/06/21 11:26:42 - Operating System Architecture  :  64-bit
+01/06/21 11:26:42 - Dokan driver: 400, DLL: 140
+01/06/21 11:26:42 - Language: en
+01/06/21 11:26:42 - 
+01/06/21 11:26:42 - Activator state: False
+01/06/21 11:26:42 - Activator key: 3EE23-85175-7981C-18677-53877
+01/06/21 11:26:42 - Activator IsExpired: False
+01/06/21 11:26:42 - Activator IsBackwardTime: False
+01/06/21 11:26:42 - Activator Reactivation Date: 
+01/06/21 11:26:42 - Activator license: 
+01/06/21 11:26:42 - Activator HID: -1518135279_-275668754_2107571857_1567607930_-1844725407
+01/06/21 11:26:42 - Activator reg name: 
+01/06/21 11:26:42 - GAT Change permission from False to True.
+01/06/21 11:26:42 - GAT Start gathering analytics.
+0
+01/06/21 11:26:43 - disk \\?\scsi#disk&ven_nvme&prod_intel_ssdpeknw51#5&26167e3&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+01/06/21 11:26:43 - physicalNumber 0
+01/06/21 11:26:43 - seekPenalty=N
+01/06/21 11:26:43 - TRIM = Y
+01/06/21 11:26:43 - serialNumber 0000_0000_0100_0000_E4D2_5C2A_8A48_5101.
+01/06/21 11:26:43 - found volume \\?\storage#volume#{5cd53108-cf1c-11e9-8172-806e6f6e6963}#000000771d500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+01/06/21 11:26:43 - Offset: 511592890368, Size: 510656512
+01/06/21 11:26:43 - found volume \\?\storage#volume#{5cd53108-cf1c-11e9-8172-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+01/06/21 11:26:43 - Offset: 1048576, Size: 272629760
+01/06/21 11:26:43 - found volume \\?\storage#volume#{5cd53108-cf1c-11e9-8172-806e6f6e6963}#0000000011500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+01/06/21 11:26:43 - Offset: 290455552, Size: 511302434816
+01/06/21 11:26:43 - volume dos path C:\, label Windows (C:)
+01/06/21 11:26:43 - *added 6 items:
+01/06/21 11:26:43 - InternalDisk 'INTEL SSDPEKNW512G8H',
+	sector size: 512,
+	path: '\\?\scsi#disk&ven_nvme&prod_intel_ssdpeknw51#5&26167e3&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}',
+	physical: 0,
+	serial: 0000_0000_0100_0000_E4D2_5C2A_8A48_5101.,
+	diskUID: 0000_0000_0100_0000_E4D2_5C2A_8A48_5101.-INTEL SSDPEKNW512G8H-512110190592,
+	fs: RAW, bus: NVME, size: 512110190592
+01/06/21 11:26:43 - Partition 'SYSTEM',
+	from: 'INTEL SSDPEKNW512G8H',
+	path: '\\?\storage#volume#{5cd53108-cf1c-11e9-8172-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 0000_0000_0100_0000_E4D2_5C2A_8A48_5101.-INTEL SSDPEKNW512G8H-1048576-272629760,
+	fs: FAT32, size: 272629760, offset: 1048576, cluster size: 512, count: 532480
+01/06/21 11:26:43 - Partition 'Microsoft reserved partition',
+	from: 'INTEL SSDPEKNW512G8H',
+	path: '[null]',
+	diskUID: 0000_0000_0100_0000_E4D2_5C2A_8A48_5101.-INTEL SSDPEKNW512G8H-273678336-16777216,
+	fs: RAW, size: 16777216, offset: 273678336
+01/06/21 11:26:43 - Volume 'Windows (C:)',
+	from: 'INTEL SSDPEKNW512G8H',
+	path: '\\?\storage#volume#{5cd53108-cf1c-11e9-8172-806e6f6e6963}#0000000011500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 0000_0000_0100_0000_E4D2_5C2A_8A48_5101.-INTEL SSDPEKNW512G8H-290455552-511302430720,
+	dos: C:\,
+	fs: NTFS, size: 511302430720, offset: 290455552, cluster size: 4096, count: 124829695
+01/06/21 11:26:43 - Partition 'Windows RE tools',
+	from: 'INTEL SSDPEKNW512G8H',
+	path: '\\?\storage#volume#{5cd53108-cf1c-11e9-8172-806e6f6e6963}#000000771d500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 0000_0000_0100_0000_E4D2_5C2A_8A48_5101.-INTEL SSDPEKNW512G8H-511592890368-510652416,
+	fs: NTFS, size: 510652416, offset: 511592890368, cluster size: 4096, count: 124671,
+	system: yes
+01/06/21 11:26:43 - Partition 'Unallocated',
+	from: 'INTEL SSDPEKNW512G8H',
+	path: '[null]',
+	diskUID: 0000_0000_0100_0000_E4D2_5C2A_8A48_5101.-INTEL SSDPEKNW512G8H-512103546880-6643712,
+	fs: RAW, size: 6643712, offset: 512103546880
+01/06/21 11:26:44 - GAT Change permission from True to True.
+01/06/21 11:26:44 - Activator restored: 0 bytes
+01/06/21 11:26:46 - 
+01/06/21 11:26:46 - Pd=0, Model=INTEL SSDPEKNW512G8H, Serial=BTNH93010HHP512A, SmartCapable=1
+01/06/21 11:26:46 - SMART_DiskSize=0 MB; DiskSize=488386 MB
+01/06/21 11:26:46 - SMART_SectorSize:logical=512;physical=512; SectorSize=512
+01/06/21 11:26:46 - Temperature=51C
+01/06/21 11:26:46 - Temperature status=2
+01/06/21 11:26:46 - Disk status=Good (Health: 100%)
+01/06/21 11:26:46 - Disk Uptime=1740
+01/06/21 11:26:46 - Disk Power Cycles=1291
+01/06/21 11:26:46 - Health=100%
+01/06/21 11:26:46 - Life=100%
+01/06/21 11:26:46 - HostReads=3.78 TB
+01/06/21 11:26:46 - HostWrites=2.01 TB
+01/06/21 11:26:46 - Disk vendor=nv
+01/06/21 11:26:46 - ID=01; CUR=000; WRST=000; THRS=000; RAW=000000000000 (0) NAME=Critical Warning
+01/06/21 11:26:46 - ID=02; CUR=000; WRST=000; THRS=000; RAW=000000000144 (324) NAME=Composite Temperature
+01/06/21 11:26:46 - ID=03; CUR=000; WRST=000; THRS=000; RAW=000000000064 (100) NAME=Available Spare
+01/06/21 11:26:46 - ID=04; CUR=000; WRST=000; THRS=000; RAW=00000000000A (10) NAME=Available Spare Threshold
+01/06/21 11:26:46 - ID=05; CUR=000; WRST=000; THRS=000; RAW=000000000000 (0) NAME=Percentage Used
+01/06/21 11:26:46 - ID=06; CUR=000; WRST=000; THRS=000; RAW=0000007BCCE3 (8113379) NAME=Data Units Read
+01/06/21 11:26:46 - ID=07; CUR=000; WRST=000; THRS=000; RAW=000000420094 (4325524) NAME=Data Units Written
+01/06/21 11:26:46 - ID=08; CUR=000; WRST=000; THRS=000; RAW=000000290560 (120128864) NAME=Host Read Commands
+01/06/21 11:26:46 - ID=09; CUR=000; WRST=000; THRS=000; RAW=000000ECBD42 (82623810) NAME=Host Write Commands
+01/06/21 11:26:46 - ID=0A; CUR=000; WRST=000; THRS=000; RAW=000000000D56 (3414) NAME=Controller Busy Time
+01/06/21 11:26:46 - ID=0B; CUR=000; WRST=000; THRS=000; RAW=00000000050B (1291) NAME=Power Cycles
+01/06/21 11:26:46 - ID=0C; CUR=000; WRST=000; THRS=000; RAW=0000000006CC (1740) NAME=Power On Hours
+01/06/21 11:26:46 - ID=0D; CUR=000; WRST=000; THRS=000; RAW=0000000002E0 (736) NAME=Unsafe Shutdowns
+01/06/21 11:26:46 - ID=0E; CUR=000; WRST=000; THRS=000; RAW=000000000000 (0) NAME=Media and Data Integrity Errors
+01/06/21 11:26:46 - ID=0F; CUR=000; WRST=000; THRS=000; RAW=000000000000 (0) NAME=Number of Error Information Log Entries
+1
+01/06/21 11:27:31 - disk \\?\usbstor#disk&ven_vendorco&prod_productcode&rev_2.00#1106701010725536311&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+01/06/21 11:27:31 - physicalNumber 1
+01/06/21 11:27:31 - serialNumber 1106701010725536311
+01/06/21 11:27:31 - found volume \\?\storage#volume#_??_usbstor#disk&ven_vendorco&prod_productcode&rev_2.00#1106701010725536311&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+01/06/21 11:27:31 - Offset: 1048576, Size: 62913511424
+01/06/21 11:27:31 - volume dos path D:\, label USB Drive (D:)
+01/06/21 11:27:31 - *added 2 items:
+01/06/21 11:27:31 - ExternalDisk 'VendorCo ProductCode USB Device',
+	sector size: 512,
+	path: '\\?\usbstor#disk&ven_vendorco&prod_productcode&rev_2.00#1106701010725536311&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}',
+	physical: 1,
+	serial: 1106701010725536311,
+	diskUID: 1106701010725536311-ProductCode     -62914560000,
+	fs: RAW, bus: USB, size: 62914560000
+01/06/21 11:27:31 - Volume 'USB Drive (D:)',
+	from: 'VendorCo ProductCode USB Device',
+	path: '\\?\storage#volume#_??_usbstor#disk&ven_vendorco&prod_productcode&rev_2.00#1106701010725536311&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 1106701010725536311-ProductCode     -1048576-62913511424,
+	dos: D:\,
+	fs: EXFAT, size: 62913511424, offset: 1048576, cluster size: 512, count: 122877952
+01/06/21 11:27:47 - Preview mount to: C:\Users\23481\AppData\Local\Temp\tmp3AFB.tmp
+01/06/21 11:27:47 - start megascan for 'Volume 'USB Drive (D:)',
+	from: 'VendorCo ProductCode USB Device',
+	path: '\\?\storage#volume#_??_usbstor#disk&ven_vendorco&prod_productcode&rev_2.00#1106701010725536311&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 1106701010725536311-ProductCode     -1048576-62913511424,
+	dos: D:\,
+	fs: EXFAT, size: 62913511424, offset: 1048576, cluster size: 512, count: 122877952', imgInfo 000002AF509EA040
+01/06/21 11:27:47 - Mounted('<null>', {<null>, False, False, False, False, #0, False, False}) -> Success
+01/06/21 11:27:57 - quick scan "Volume 'USB Drive (D:)',
+	from: 'VendorCo ProductCode USB Device',
+	path: '\\?\storage#volume#_??_usbstor#disk&ven_vendorco&prod_productcode&rev_2.00#1106701010725536311&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 1106701010725536311-ProductCode     -1048576-62913511424,
+	dos: D:\,
+	fs: EXFAT, size: 62913511424, offset: 1048576, cluster size: 512, count: 122877952"
+01/06/21 11:27:57 - Quick EXFAT
+I 2021-01-06T11:27:59 Extract 4271 files and 382 folders during exFAT quickscan.
+I 2021-01-06T11:27:59 Will add the partition offset 100000 to detected file locations.
+01/06/21 11:27:59 - Found 13 files during EXFAT quickscan
+01/06/21 11:27:59 - AutoSave session: C:\Users\23481\AppData\Local\DiskDrill\1106701010725536311-ProductCode     -1048576-62913511424.ddwscan
+I 2021-01-06T11:27:59 Load exFAT layout from TSK.
+I 2021-01-06T11:27:59   sector/cluster size: 512/131072,
+I 2021-01-06T11:27:59   full length/cluster count: 62914560000/479969,
+I 2021-01-06T11:27:59   fat offset/length: 0x100000/1966080,
+I 2021-01-06T11:27:59   heap offset/position: 0x2e0000/0x2e0000,
+I 2021-01-06T11:27:59   root cluster: 4.
+[FAT32 DEEP] Log level is: 00000007
+[FAT32 DEEP] 2021-01-06 11:27:59 [INFO]: Fat32Scanner::Fat32Scanner> ctor
+01/06/21 11:27:59 - deep scan "Volume 'USB Drive (D:)',
+	from: 'VendorCo ProductCode USB Device',
+	path: '\\?\storage#volume#_??_usbstor#disk&ven_vendorco&prod_productcode&rev_2.00#1106701010725536311&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 1106701010725536311-ProductCode     -1048576-62913511424,
+	dos: D:\,
+	fs: EXFAT, size: 62913511424, offset: 1048576, cluster size: 512, count: 122877952"
+[FAT32 DEEP] 2021-01-06 11:27:59 [INFO]: Fat32Scanner::ScanVolume> Start volume scanning
+01/06/21 11:48:00 - AutoSave session: C:\Users\23481\AppData\Local\DiskDrill\1106701010725536311-ProductCode     -1048576-62913511424.ddwscan
+I 2021-01-06T11:51:08 Omitted during exFAT scan: 0 VBRs, 0 FAT starts, 0 upcase tables.
+I 2021-01-06T11:51:08 Use heap position from exfat VBR.
+I 2021-01-06T11:51:08 Exfat heap position is 0x2e0000, csize 131072, offset is 0x2e0000.
+I 2021-01-06T11:51:08 Restored 0 files and 0 folders from exFAT metainfo.
+I 2021-01-06T11:51:08 Will add the partition offset 100000 to detected file locations.
+01/06/21 11:51:08 - Found 0 files during EXFAT deepscan
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::Fat32Analyzer> ctor
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Scanner::LogFinishInfo> Found 0 entries, 0 lfn entries
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Scanner::LogFinishInfo> Finish volume scanning
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::AnalyzeDirClusters> Start volumes resolving
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::AnalyzeDirClusters> Total volumes found: 1
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::AnalyzeDirClusters> Finish volumes resolving
+The first cluster on-disk offset: 0x0000000000, volume 0
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::FindFatTable> Start FatTable search
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32TableScanner::FindFatTable> Searching for Fat Table in range [0 - 0]
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32TableScanner::FindFatTable> Searching completed - 0 Fat Tables found
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32TableScanner::FindCorruptedFatTable> Can't find Fat Table starting offset: [0]
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::FindFatTable> Can't find FatTable
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::FindFatTable> Finish FatTable search
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::BuildFilePaths> Start file paths resolving
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32LongNameResolver::ResolveNames> Start long names resolving
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32LongNameResolver::ResolveNames> Finish long names resolving
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::BuildFilePaths> Found 0 files, 0 lost files, 0 deleted files
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::BuildFilePaths> Finish file paths resolving
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Analyzer::~Fat32Analyzer> dtor
+[FAT32 DEEP] 2021-01-06 11:51:08 [INFO]: Fat32Scanner::~Fat32Scanner> dtor
+01/06/21 11:51:08 - AutoSave session: C:\Users\23481\AppData\Local\DiskDrill\1106701010725536311-ProductCode     -1048576-62913511424.ddwscan
+01/06/21 11:53:02 - Recover complete: 12 files / 347 MB
+01/06/21 11:53:50 - AutoSave session: C:\Users\23481\AppData\Local\DiskDrill\1106701010725536311-ProductCode     -1048576-62913511424.ddwscan
+01/06/21 11:53:50 - Unmounted('<null>', {<null>, False, False, False, False, #0, False, False}) -> Success
+raw_close: 000002AF509EA040raw_close: 000002A74321A040
